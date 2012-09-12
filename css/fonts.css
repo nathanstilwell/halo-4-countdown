@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'ua squared';
+    src: url('../fonts/uasquare-webfont.eot');
+    src: url('../fonts/uasquare-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/uasquare-webfont.woff') format('woff'),
+         url('../fonts/uasquare-webfont.ttf') format('truetype'),
+         url('../fonts/uasquare-webfont.svg#ua_squaredregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'halo outline';
+    src: url('../fonts/halo_outline-webfont.eot');
+    src: url('../fonts/halo_outline-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/halo_outline-webfont.woff') format('woff'),
+         url('../fonts/halo_outline-webfont.ttf') format('truetype'),
+         url('../fonts/halo_outline-webfont.svg#halo_outlineregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'halo';
+    src: url('../fonts/halo-webfont.eot');
+    src: url('../fonts/halo-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/halo-webfont.woff') format('woff'),
+         url('../fonts/halo-webfont.ttf') format('truetype'),
+         url('../fonts/halo-webfont.svg#haloregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'braciola';
+    src: url('../fonts/braciola_ms_exb-webfont.eot');
+    src: url('../fonts/braciola_ms_exb-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/braciola_ms_exb-webfont.woff') format('woff'),
+         url('../fonts/braciola_ms_exb-webfont.ttf') format('truetype'),
+         url('../fonts/braciola_ms_exb-webfont.svg#braciola_ms_extraboldregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'League Gothic';
+    src: url('../fonts/league-gothic.eot');
+    src: url('../fonts/league-gothic.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/league-gothic.woff') format('woff'),
+         url('../fonts/league-gothic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
