@@ -4,4 +4,4 @@
 
 This is a nerdy way for me and my friends to make the journey through Halo history before the launch of Halo 4.
 
-Pretty much everything on this page is copyright 343 Instrudries and Microsoft. Hopefully they won't sue a loyal fan, but please don't think I created anything from the universe or the games except a countdown to hopefully their best game ever.
+*Pretty much everything on this page is copyright 343 Instrudries and Microsoft. Hopefully they won't sue a loyal fan, but please don't think I created anything from the universe or the games except a countdown to hopefully their best game ever.*
