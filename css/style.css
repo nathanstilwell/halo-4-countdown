@@ -182,6 +182,7 @@ body {
   .logo {
     background : transparent url(../img/logo_200.png) no-repeat 0 0;
     height : 100px;
+    margin-top : 15px;
     width: 200px;
   }
 
