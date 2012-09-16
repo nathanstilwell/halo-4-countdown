@@ -1,4 +1,4 @@
-(function(global, doc, $, _, launchDate, undefined){
+(function(global, doc, $, launchDate, undefined){
 /*
     Countdown Clock
 */
@@ -108,4 +108,4 @@
     };
 
   });
-}(this, this.document, this.jQuery, this._, "November 6, 2012 00:00:00"));
+}(this, this.document, this.jQuery, "November 6, 2012 00:00:00"));
