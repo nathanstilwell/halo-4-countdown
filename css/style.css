@@ -184,20 +184,33 @@ body {
     height : 100px;
     width: 200px;
   }
+
+  .road-to-requiem {
+    margin-top : 10px;
+    width : 94%;
+  }
+
+  .road-to-requiem .title {
+    display : none;
+  }
 }
 
 /* Medium */
 
 @media all and (min-width: 481px) and (max-width: 800px) {
+  .logo {
+    background : transparent url(../img/logo_400.png) no-repeat 0 0;
+    height : 199px;
+    width: 400px;
+  }
+
   .clock {
     font-size : 70px;
     text-shadow : 0 0 4px rgba(255, 255, 255, .85);
   }
 
-  .logo {
-    background : transparent url(../img/logo_400.png) no-repeat 0 0;
-    height : 199px;
-    width: 400px;
+  .road-to-requiem .title {
+    font-size : 70px;
   }
 }
 
