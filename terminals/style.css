@@ -1,0 +1,31 @@
+html, body {
+  font-size : 20px;
+}
+
+.nav {
+  font-size : 16px;
+  background-color : #fff;
+  background-color : rgba(255, 255, 255, .85);
+  position: fixed;
+  top : 0;
+  left : 0;
+  width : 100%;
+}
+
+.nav .list {
+    list-style-type: none;
+    text-align: center;
+    margin: 5px 0;
+    padding: 0;
+}
+
+.nav .item {
+  display: inline;
+  padding : 0 15px;
+}
+
+
+.terminal-text {
+  margin : 0 auto;
+  width : 460px;
+}

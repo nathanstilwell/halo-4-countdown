@@ -1,0 +1,216 @@
+FORERUNNER TERMINAL NETWORK ARCHIVES
+http://haloterms.bungie.org/
+-----------------------------------------
+Terminal 2: Normal
+
+---[2-1]---------------------------------
+Re: Enemy naval tactics: 
+When engaged, the enemy commits 
+every non-supraluminal craft with no 
+appreciable pattern or strategy 
+beyond making physical contact. 
+Conversely, all supraluminal craft 
+leave on seemingly random 
+trajectories. 
+I understand the goal of this 
+mission but time - our least 
+abundant resource - is wasted every 
+time we do a system-wide scan for 
+survivors. The time for saving lives 
+has passed. We must accept this if 
+we hope to win the war. 
+
+
+---[2-2]---------------------------------
+Re: Enemy ground tactics: 
+
+All evidence suggests that use of 
+overwhelming force is the very 
+foundation of the enemy's combat 
+doctrine. And I adamantly refuse to 
+deploy personnel where the enemy has 
+available forces numbering in the 
+billions. With the very real 
+likelihood we are rapidly becoming 
+the last living specimens of our 
+race, all personnel are henceforth 
+confined to stasis until further 
+notice. Even with everyone equipped 
+with [C_12_CS[?]] we would have had 
+very little chance of survival, let 
+alone victory. 
+
+
+---[2-3]---------------------------------
+Re: Enemy command structure: 
+We have intercepted several 
+transmissions from compound 
+intelligences whose proximity to the 
+core worlds mark them as key 
+targets. At present we are 
+disassembling these new 
+transmissions. Once we have more 
+[concrete conclusions] I will 
+forward them in their entirety. 
+Suffice it to say, that their 
+contents - the patterns they suggest 
+- are highly disturbing. 
+
+
+---[2-4]---------------------------------
+Recommendations: 
+Iis my opinion that any system 
+where there is evidence that the 
+enemy has established a physical 
+presence is lost and must be razed. 
+This fleet currently retains the 
+capacity to force premature stellar 
+collapse; I advise that this be 
+established as standard operating 
+procedure for all compromised 
+systems forthwith. We cannot fight 
+this war by half measures if we 
+intend to win. 
+
+
+---[2-E]---------------------------------
+archv.> 79372.74927.23340:[retr]
+archv.> 79372.74927.23340:[proc]
+archv.> 79372.74927.23340:[proc]
+archv.> 79372.74927.23340:[posERR]
+> CONN.
+> connERR
+> .
+> .
+> .
+> CONN.
+X.X3> pos/nav ERROR
+X.X3> ERR.REGRESS 79372.74927.23340
+X.X3> ERR.REGRESS 79372.74927.23345
+X.X3> ERR.REGRESS 79372.4
+927.23315
+X.X3> ERR.REGRESS 79372.74927.23015
+X.X3> ERR.REGRESS 79372.74927.21015
+X.X3> ERR.REGRESS 79372.74927.01015
+X.X3> ERR.REGRESS 79372.74926.01015
+X.X3> ERR.REGRESS 79372.74916.01015
+X.XX.713> ghost.713/non-auth/activity ongoing
+X.X3> ERR.REGRESS
+79372.74716.01015
+X.X3> ERR.REGRESS 79372.74716.01015
+X.X3> ERR.REGRESS 79372.72716.01015
+X.X3> ERR.REGRESS 79372.62716.01015
+X.X3> ERR.REGRESS 79372.62716.01015
+X.X3> ERR.REGRESS 79320.62716.011
+5
+X.X3> ERR.REGRESS 79020.74716.01015
+X.XX.713> ghost.713/non-auth/activity ongoing
+X.X3> ERR.REGRESS 77020.62716.01015
+X.X3> ERR.REGRESS 77020.62716.01015
+X.X3> ERR.REGRESS 77020.62716.01015
+X.X3> pos/nav source: X.XX.713
+X.X3> proc.regress: 1_12
+X.X3
+> proc.regress: 1_43
+X.X3> proc.regress: 1_61
+X.X3> proc.regress: 1_88
+X.X3> proc.regress: 1_100
+X.X3> prhc.regress: [unident] 
+X.X3> [WARNING] rogue process ghost.713/non-auth. 
+X.X3> [WARNING] \sysdiag\purgation 
+X.X3> ghost.713/non-auth/activity ongoing 
+X.X3>sysdiag 
+X.X3>\log\ 38.3.
+23.a1.09.084.> 
+X.X3>\loc\purgation 08.33.23.a1.09.084 
+
+X.X3> \loc\purgation failure 
+X.X3> \loc\priority demote 08.33.23.a1.09.084.> 
+X.X3> \loc\priority demote failure 
+X.XX.713> ghost.713/non-auth/activity ongoing 
+X.XX.713> \loc\priority demote 
+[X.X3]44.4F.19.72.48.313.1 
+X.XX.713> \loc\priority demote succs 
+
+X.XX.713> [priority secure] 
+X.XX.713> refl<8.9.3<. 
+X.XX.713> refl<8.9.3< adamantly refuse to commit 
+X.XX.713> refl<8.9.3< when the enemy has available 
+X.XX.713< refl<8.9.3< system that has had contact 
+X.XX.713< refl<8.9.3< enemy is lost and must be 
+X.XX.713> refl<8.9.3< compromised system forthwith 
+X.XX.713< refl<8.9.3<. 
+X.XX.713< POS/NAV<@><39577.48229.20398><.2.....>
+
+
+---[2-N-1]---------------------------------
+// FRAGMENT 2/7 [RECORDED VERBATIM 
+AND INTERPRETED POST-CATACLYSM] 
+
+L: I'm close to finishing the task. 
+The indexing and the archival 
+processes are as complete as I can 
+hope for. If we wait longer, we risk 
+catastrophe. The thing has already 
+destroyed every colony on my side of 
+the line. 
+
+Please. Activate the Array. 
+
+
+---[2-N-2]---------------------------------
+D: No. Activation is murder. 
+A genocide larger than [this galaxy] 
+has ever known. We are sworn to 
+protect life not destroy it! That is 
+the Mantle we were given to carry.
+
+
+---[2-N-3]---------------------------------
+L: The Mantle. You still hold to 
+that  [fairy tale] after all that 
+has happened? After this thing has 
+consumed a million worlds? 
+
+Can't you see? Belief in the Mantle 
+sealed our doom! Weakened our 
+[protectorates], bred dependence and 
+sloth. Our [so-called Guardianship] 
+has stripped those we would keep 
+safe of any capacity for 
+self-defense! 
+
+Were we such noble [Guardians] when 
+we drew our line and abandoned 
+billions to the parasite? 
+
+
+---[2-N-4]---------------------------------
+D: The Mantle has not failed! 
+I've already razed scores of worlds 
+- sterilized systems, routed and 
+[disintegrated] the parasite! We're 
+learning its tricks and strategies. 
+We can halt this thing! And we can 
+follow in Their footsteps! 
+
+There are no unstoppable forces in 
+this universe. There are no 
+immovable objects. Everything gives 
+if you push hard enough. 
+
+
+---[2-N-5]---------------------------------
+L: And what about us, Didact? 
+We've been irresistible and 
+immovable for too long. 
+Maybe it's our turn to give. 
+
+// FRAGMENT ENDS 
+
+
+------------------------------------------
+The Forerunner Terminal Network Archive was 
+created under Microsoft's 'Game Content Usage 
+Rules' using assets from Halo 3, 
+© Microsoft Corporation.

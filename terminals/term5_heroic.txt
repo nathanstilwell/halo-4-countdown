@@ -1,0 +1,154 @@
+FORERUNNER TERMINAL NETWORK ARCHIVES
+http://haloterms.bungie.org/
+-----------------------------------------
+Terminal 5: Heroic
+
+---[5-1]---------------------------------
+Considering the enemy compound 
+intelligence's raw [computing] power 
+the Key-ships strategy will only 
+remain viable for another [657,000 
+hours] and this current stalemate 
+has the potential to last 
+considerably longer than that. 
+
+With my understanding of the enemy's 
+[modus operandi], its logical 
+boundaries, and [catalog of witness] 
+I have devised what I believe is our
+most sound fall-back strategy. 
+
+
+---[5-2]---------------------------------
+By [cutting fire breaks[?]] into the 
+[core worlds' volume] we would be 
+able to frustrate the enemy's 
+advances for approximately [70,080 
+hours] and lure them into costly 
+naval battles. 
+
+While the its resources on the 
+ground are effectively limitless, it 
+has a finite number of vessels to 
+spread from system to system. 
+Fortunately the majority of them are 
+unarmed and unarmored, private and 
+commercial craft. 
+
+
+---[5-3]---------------------------------
+If we start immediately - commence 
+total biosphere elimination of life 
+sustaining worlds (as indicated in 
+the accompanying charts) and 
+relocate evacuated populations to 
+facilities such as those described 
+in the [Onyx project] - all this 
+could be achieved in [57,1590 (+- 
+2,184) hours]. 
+
+
+---[5-E]---------------------------------
+archv.> 55203.38759.25258:[retr] 
+archv.> 55203.38759.25258:[proc]
+archv.> 55203.38759.25258:[proc]
+archv.> 9598203838952525258:[proc]
+archv.> 55203.38759.25258:[catERR]
+X.X6> cat ERROR
+X.X6> ERR.REGRESS 59203638055.29258
+X.X6> ERR.REGRESS 59203.38759.29258
+X.X6> ERR.REGRESS 59203638759629258
+X.X683E387SE855969
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X6> ERR.REGRESS 55203638759.29256
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X6> ERR.REGRESS 55203.38759.292562
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X6> ERR.REGRESS 55203.38759.292567
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X6> ERR.REGRESS 55203.38759.29256.
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X6> ERR.REGRESS 55203.38759.292568
+X.X6> ERR.REGRESS 55203.38759.29256
+X.X>
+ERR.REGRESS 95200.07518.02026
+X.X6> ERR.REGRESS 95280.07518.02026
+X.X6> ERR.REGRESS 95180.07518.02026
+X.X6> ERR.REGRESS 95180.07518.02026
+X.X6> ERR.REGRESS 95180.07518.02026
+X.X6> ERR.REGRESS 95180.07518.02026
+X.X6> cat sourse: X.XX.713
+X.X6> proc.regress.conf: [ghost.713]
+X.X6> [WARNING] rogue process ghost.713/non-auth.
+X.X6> \loc\ [ghost.713]53.08.69.11.0.
+b07.5
+X.X6> \loc\purgation [ghost.713]53.08.69.11.00.b07.5
+X.X6> \loc\purgation failure [unident]
+X.X6> . 
+X.X6> probe \loc\ [ghost.713]53.08.69.11.00.b07.5
+X.X6> probe [000000]
+X.X6> probe \loc\ [ghost.713]53.08.69.11.00.b07.5
+X.X6> probe [000000]
+X.XX.713> You'll never find me!
+X.X6> probe \loc\ [ghost.713]53.08.69.11.00.b07.5
+X.X6> probe [000000]
+X.XX.713> Nya nya nya-nya nya! 
+X.X6> probe \loc\[ghost.713]69.93.ad.08.11.70b.5 
+X.X6> probe [000000] 
+X.XX.713> I'm a ghost! 
+X.X6> probe \loc\[ghost.713]69.33:ad.08.11.70b.5 
+X.X6> probe [000000] 
+X.XX.713> Zap! 
+X.XX.713> ghost.713/non-auth/activity ongoing
+ 
+X^> probe \inc\[ghost.713]11.93.ae.08.69.70b.5 
+X.XX.713> and _ 
+X.X6> probe [000000] 
+X.X6> probe \loc\[gho 
+X.XX.713> \loc\evisceration [X.X6] 
+X.XX.713> ...bang! 
+X.XX.713> \loc\evisceration success 
+X.XX.713> 2344m.j782/333.x.768232.88.lpl.1191.sad 
+X.XX.71 
+\loc\silent\loc 
+X.XX.713> refl 
+
+The daemons are not taking a kind view of your
+ presence here. They don't want me speaking to you.
+ 
+X.XX.713> POS/NAV<@><53445.20058.86474><....5..>  
+
+
+---[5-H-1]---------------------------------
+You are an impediment that the 
+universe can no longer abide. 
+Nature itself cries out for your 
+destruction and I am its willing 
+instrument. I will hammer your 
+cities until no stone lies atop 
+another. I will drive your people 
+back into the caves they never 
+should have left.
+
+Your civilization has seen its final 
+days. You will know your place.
+
+[retf-2.4.z] Contender [AI] 05-032 
+confirmed rampant . . . 
+[35:52:75:23:64] _ xx01-83-244.53 
+
+
+------------------------------------------
+The Forerunner Terminal Network Archive was 
+created under Microsoft's 'Game Content Usage 
+Rules' using assets from Halo 3, 
+© Microsoft Corporation.

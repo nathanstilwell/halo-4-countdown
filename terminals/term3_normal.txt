@@ -1,0 +1,205 @@
+FORERUNNER TERMINAL NETWORK ARCHIVES
+http://haloterms.bungie.org/
+-----------------------------------------
+Terminal 3: Normal
+
+---[3-N-1]---------------------------------
+Warning: Your intrusion has been 
+logged. 
+
+04-343 (errant): Excuse me? 
+
+Your intrusion has been logged. And 
+now it has been halted. 
+
+04-343 (errant): On whose authority? 
+
+Advice: Any further attempt to 
+access [insects under stones] will 
+result in your immediate addition to 
+local Sentinels' targeting ledger. 
+
+
+---[3-N-2]---------------------------------
+04-343 (errant): Vexation! I am the 
+Monitor of -- 
+
+Judgment: Your authority means 
+nothing here. 
+
+04-343 (errant): Impatience! 
+
+04-343 (errant): I have told you who 
+I am. Who are you? 
+
+All our makers once held dear. 
+
+[Alexandria before the Fire]. 
+
+
+---[3-N-3]---------------------------------
+04-343 (errant): Sincere apology. 
+But how --
+ 
+Explanation: This facility is host 
+to the [Librarians'] final -- 
+
+04-343 (errant): The archive is 
+intact?! Then our makers' plan -- 
+
+But also maintains [bellows, crucible, 
+castings] 
+
+04-343 (errant): A what? 
+
+[bellows, crucible]-- 
+
+
+---[3-N-4]---------------------------------
+04-343 (errant): A Foundry? 
+
+04-343 (errant): For what purpose?! 
+
+Warning: Your intrusion has been 
+logged. 
+
+Advice: Any further attempt to 
+access will result-- 
+
+04-343 (errant): Indignant! 
+
+--immediate addition to local 
+Sentinels' targeting ledger.
+
+
+---[3-E]---------------------------------
+archv.> 28385.67204.85720:[retr] 
+archv.> 28385.67204.85720:[proc] 
+archv.> 28385.67204.85720:[proc] 
+archv.> 28385.67204.85720:[priERR]
+>CONN.
+X.X4> pri ERROR
+X.X4>ERR.REGRESS.97840.65499.66938
+X.X4>ERR.REGRESS.97840.65499.66938
+X.X4> ERR.REGRESS 976
+.65499.66923
+X.X4>ERR.REGRESS.97840.65499.66723
+X.X4>ERR.REGRESS.97840.65499.66723
+X.X4>ERR.REGRESS.97840.65499.66723
+X.X4>ERR.REGRESS.97840.65491.66733
+X.X4>ERR.REGRESS.97840.65491.66733
+X.X4>ERR.REGRESS.97840.65491.66733
+X.X4>ERR.REGRESS.978406
+.65499.66733
+X.X4> ERR.REGRESS 97840.65499.66933 
+X.X4> ERR.REGRESS 97840.65499.66923 
+X.X4> ERR.REGRESS 97840.65499.66723 
+X.X4> ERR.REGRESS 97840.65499.62723 
+X.X4> ERR.REGRESS 97840.65499.42723 
+X.X4> ERR.REGRESS 97840.65491.42733 
+X.X4> ERR.REGRESS 97840.65451.42733 
+X.X 
+ERR.REGRESS 97840.65051.42733 
+X.X4> ERR.REGRESS 97840.62051.42733 
+X.XX.713> ghost.713/nonauth/activity ongoing 
+X.XX.713> \loc\silent [X.X4] 
+X.XX.713> \loc\silent [X.X3] 
+X.XX.713> \loc\silent [X.X2] 
+X.XX.713> \loc\silent [X.X1] 
+X.XX.713> 2344m.g782/333 
+.768232.88.1p1.1191.sad 
+X.XX.713> \loc\silent\loc 
+X.XX.713> refl
+
+I see you, reclaimer.
+
+X.XX.713> POS/NAV<@><55703.22009.86582><..3....>
+
+ 
+ ---[3-N-5]---------------------------------
+ // FRAGMENT 3/7 [RECORDED VERBATIM 
+ AND INTERPRETED POST-CATACLYSM] 
+
+D: We have the answer. We've built 
+Mendicant Bias. It's a contender 
+class [AI], unlike anything we've 
+ever achieved. 
+
+And we've observed a pattern it 
+can exploit. 
+
+
+---[3-N-6]---------------------------------
+The parasite has formed a Compound 
+Mind. When it reaches a certain 
+mass, the Mind is able to recoil its 
+disparate parts to create a 
+[tactical shield]. This is a simple 
+matter of mass preservation. The 
+thing has no compunction about 
+sacrificing parts of the whole. But 
+when the core of the Mind is 
+threatened, it reacts violently 
+and quickly. 
+
+This is the only time we ever see 
+the thing retreat or slow its growth.
+
+
+---[3-N-7]---------------------------------
+If we are to defeat it, the trick 
+will be coordinating our forays 
+against the [sprawling infection] 
+while Mendicant Bias assaults the 
+Mind's core. So far, we've been 
+hesitant to use certain weapons 
+because of the damage they cause 
+surviving populations and 
+environments. 
+
+That protocol has now been abandoned. 
+
+
+---[3-N-8]---------------------------------
+Mendicant will draw the Mind into 
+battle outside the line, dealing 
+with local biomass and other parts 
+as best he can. The scale of the 
+problem is vast, but the strategy 
+is sound. It will require patience, 
+materiel and an investment of energy 
+unlike anything we have ever 
+considered. 
+
+
+---[3-N-9]---------------------------------
+It's a dangerous plan that carries 
+more risk than the Array, but I 
+believe it can work. Even if we 
+simply force it to retreat - to 
+retract - that will at least give us 
+some respite. Some time to muster 
+more resources... 
+
+Some time to rescue you. 
+
+
+---[3-N-10]---------------------------------
+L: Are you insane? Would you risk 
+every life in the galaxy for this 
+transparently futile plan? Have you 
+learned nothing in these last 
+[300 years[?]]? The thing will 
+laugh at your efforts! 
+
+Do not let your concern for my 
+welfare commit you to this suicidal 
+scheme! 
+
+// FRAGMENT ENDS 
+
+------------------------------------------
+The Forerunner Terminal Network Archive was 
+created under Microsoft's 'Game Content Usage 
+Rules' using assets from Halo 3, 
+© Microsoft Corporation.

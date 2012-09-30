@@ -1,0 +1,177 @@
+FORERUNNER TERMINAL NETWORK ARCHIVES
+http://haloterms.bungie.org/
+-----------------------------------------
+Terminal 1: Normal
+
+---[1-1]---------------------------------
+Observed extensive ground action on 
+[LP 656-38 e]. 9,045 survivors 
+barricaded within central government 
+building. Structure's defenses 
+inadequate to withstand extended 
+siege by enemy ground forces 
+(" 1,572,034,315+). Estimate 
+position overrun in [173 hours]. 
+
+846 smaller groups in less 
+defensible structures: global 
+distribution corresponding to 
+[probability model zeta]. 
+Estimated local position overrun 
+in [9 hours] (average). 
+
+
+---[1-2]---------------------------------
+Observed local naval forces engage 
+enemy irregular naval group near 
+[DM -3-1123]. Enemy group consisted 
+of 149 commercial shipping vessels, 
+passenger ferries, and private 
+recreational vessels from 
+neighboring system. Enemy losses 
+were total. No damage was sustained 
+by local naval vessels. 
+
+However, it was immediately apparent 
+that enemy group sought only to 
+enter [DM-3-1123 b's] atmosphere and 
+make landfall. In this they were 
+partially successful. 
+
+
+---[1-3]---------------------------------
+Observed extensive ground action on 
+[DM-3-1123 b]. Enemy forces lacked 
+basic unit cohesion but quickly 
+gained numerical superiority. 
+[32 hours] after enemy landfall 83% 
+of local naval forces advocated total 
+[destruction of the biosphere] 
+following the evacuation of 
+unmolested population centers. 
+Enemy losses were total. 
+
+Estimated number of citizens 
+evacuated before commencement of 
+orbital blanket bombardment: 
+1,318,797 civilian/42,669 military 
+(.0006% of total population). 
+
+
+---[1-E]---------------------------------
+archv.> 43234.54354:12253:[retr]
+archv.> 43234.54354:12253:[proc]
+archv.> 43234.54354:12253:[proc]
+archv.> 43234.54354:12253:[posERR]
+> CONN.
+X.X1> pos/nav ERROR
+X.X1> ERR.REGRESS 43234. 54354:12253
+X.X1> ERR.REGRESS 43234. 54354:12252
+X.X1> ERR.REGRESS 43
+4. 54354:12242
+X.X1> ERR.REGRESS 43234. 54354:12042 
+X.X1> ERR.REGRESS 43234. 54354:12042 
+X.X1> ERR.REGRESS 43234. 54354:10042 
+X.X1> ERR.REGRESS 43234. 54354:00042 
+X.X1> ERR.REGRESS 43234. 54352:00042 
+X.X1> ERR.REGRESS 43234. 54302:00042 
+X.X1> ERR.REGRESS 43234. 54102:00042 
+X.X 
+ERR.REGRESS 43234. 52102:00042 
+X.X1> ERR.REGRESS 43234. 32102:00042 
+X.X1> ERR.REGRESS 43232. 32102:00042 
+X.X1> ERR.REGRESS 43222. 32102:00042 
+X.X1> ERR.REGRESS 43122. 32102:00042 
+X.X1> ERR.REGRESS 40122. 32102:00042 
+X.X1> ERR.REGRESS 30122. 32102:00042 
+X.X1> 
+R.REGRESS 30122.32102:00042 
+X.X1> pos/nav source: X.XX.713
+X.X1> proc.regress: 1_100 
+X.X1> proc.regress: [unident] 
+X.X1> [WARNING] rogue process ghost.713/non-auth. 
+X.X1> [WARNING] \sysdiag\purgation 
+X.X1> ghost.713/non-auth/activity ongoing 
+X.XX.713>g 
+st.713/non-auth/activity ongoing 
+X.XX.713> POS/NAV>@..53454.64562.12740><1......>
+
+
+---[1-N-1]---------------------------------
+ // FRAGMENT 1/7 [RECORDED VERBATIM 
+AND INTERPRETED POST-CATACLYSM] 
+
+L: Categorization has sped since the 
+improvements were announced, but 
+there are many hurdles. The indexing 
+of sentient species may have 
+irreversible effects on the 
+surviving insentient species. 
+We will have extinction events and 
+irreparable environmental harm on at 
+least 18 worlds. Current projections 
+estimate post-archival cataclysm on 
+as many as 31 worlds. The paucity of 
+sentience has been a blessing in 
+this regard. 
+
+
+---[1-N-2]---------------------------------
+D: How formal you are, Librarian. 
+We're receiving shipments of indexed 
+beings more frequently than 
+communications. Don't compound 
+scarcity with brevity. 
+
+I know things beyond the [Maginot] 
+line are harried. But I worry about 
+you. I've asked you time and time 
+again. Abandon your cataloguing. 
+Come back inside, where my fleets 
+can keep you safe. 
+
+Come home. 
+
+
+---[1-N-3]---------------------------------
+L: Would that it were my choice. 
+I have committed to this course 
+because it's the right thing to do. 
+We no longer have the manpower or 
+materiel to excise remedial measures 
+at a planetary level. I certainly 
+can't justify using the [transit 
+measure] to save my own skin when 
+there are still so many innocents to 
+protect and index. 
+
+
+---[1-N-4]---------------------------------
+D: You know I oppose your mission, 
+but you're exceeding its parameters 
+anyway. You've put yourself in 
+jeopardy. You've done enough. 
+
+If you will not come to me, I will 
+find my way to you. 
+
+
+---[1-N-5]---------------------------------
+L: We have no time to spare, Didact. 
+Every vessel we can fill, we send to 
+the Ark. I dare not cease the 
+mission. Not now, not until I've 
+done all I can. Each one of these 
+souls is finite and precious. 
+
+And I'm close. 
+
+Close to saving them all. 
+
+//FRAGMENT ENDS 
+
+------------------------------------------
+The Forerunner Terminal Network Archive was 
+created under Microsoft's 'Game Content Usage 
+Rules' using assets from Halo 3, 
+© Microsoft Corporation.

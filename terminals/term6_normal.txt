@@ -1,0 +1,634 @@
+FORERUNNER TERMINAL NETWORK ARCHIVES
+http://haloterms.bungie.org/
+-----------------------------------------
+Terminal 6: Normal
+
+---[6-1]---------------------------------
+Follow-up report from the Primary 
+Pioneer Group (hereafter: PPG) is 
+[173 hours] delinquent. 
+
+Report [G617a~k/g/post_landfall] 
+seemed most promising: a planet 
+capable of supporting life located 
+within the near border region of the 
+[galactic halo] with no indigenous 
+sentient species. 
+
+
+---[6-2]---------------------------------
+The section indicating no fauna of 
+any kind shall be considered 
+anomalous until verified by Advance 
+Survey Team - Alpha (hereafter: 
+AST-A) team leader [##_#[?]]. 
+If confirmed, that fact alone would 
+justify the dispatch of an 
+investigative group to [G 617 g]. 
+
+
+---[6-3]---------------------------------
+If neither the PPG nor the AST-A 
+have delivered a follow-up report 
+within the next [333 hours] this 
+office will have no recourse but to 
+send a medium intensity military 
+exploratory detachment to determine 
+the exact nature of the previously 
+mentioned delinquency. 
+
+
+---[6-E]---------------------------------
+---[Left Main]---
+archv.> 59278.99275.37244:[retr]
+archv.> 59278.99275.37244:[proc]
+archv.> 59278.99275.37244:[proc]
+archv.> 59278.99275.37244:[connERR]
+> CONN.
+X.Xc> trap ERROR
+X.Xc> ERR.REGRESS 45233.46386.00572
+X.Xc> ERR.REGRESS 45233.46386.00570
+X.Xc> ERR.REGRESS 493
+3.46386.00570
+X.XX.713> ghost.713/non-auth/activity ongoing
+X.Xc> [vlies -> X.Xg]
+X.Xg> [priLockDwn]
+X.Xg> [priLockDn /x0]
+X.Xg> [priLockDwn /x.x2]
+X.Xg> [quaratine /q.q2]
+.X5> \loc\quarantine\ [ghost.713] 74.83.72.cd.2h.0u3.7
+X.XX.713> priRaLoc 44.5g.21.2F.bw.7fj.w
+X.Xg> \loc\quarantine\iso
+[ghost.713]44.5g.21.2f.bw.7fj.w
+X.XX.713> posRaLoc/ask xx.xx.xx.xx.xx.xxx.x
+X.XX.713> \loc\quaratine\mask xx.xx.xx.xx.xx.xxx.x
+X.XX.713> \loc\quaratine\mask xx.2x.xx.xx.xx.xxx.x
+X.XX.713> \loc\quaratine\mask xx.2x.xx.xx.xx.xxx.x
+X.X>
+\loc\quaratine\mask xx.2x.xx.xg.xx.xfx.x
+X.XX.713> \loc\quaratine\mask xx.2x.xx.xg.xx.xfx.x
+X.XX.713> \loc\quaratine\mask xx.2x.xx.xg.xx.xfx.x
+X.XX.713> \loc\quaratine\mask xx.2x.xx.xg.xl.xfx.x
+X.XX.713> \loc\quaratine\mask xx.2x.xx.xg.xl.xfx.x 
+X.Xg> \loc\quaratine\mask
+xx.21.xx.xg.xl.xfx.8
+X.XX.713> \loc\quaratine\mask xx.21.bx.xg.xl.xfx.8
+X.XX.713> \loc\quaratine\mask xx.21.bx.xg.xl.xfx.8
+X.XX.713> \loc\quaratine\mask xx.21.bx.xg.xl.0fx.8
+X.XX.713> \loc\quaratine\mask xx.21.bx.xg.xl.0fx.8
+X.XX.713> \loc\quaratine\
+mask 18.21.b9.5g.1l.0f0.8
+X.XX.713> \loc\quaratine\mask 18.21.b9.5g.1l.0f0.8
+X.XX.713> \loc\quaratine\mask 18.21.b9.5g.1l.0f0.8
+X.XX.713> \loc\quaratine\mask 18.21.b9.5g.1l.0f0.8
+X.XX.713> \loc\quaratine\ 18.21.b9.5g.1l.0f0.8
+X.XX.713> proRaLoc/msk xx.xx.xx.xxx
+x.xxx.x
+X.XX.713> pcaRax.xx.xx.xxx.x
+X.XX.713> \loc\quaratine\mask xx.xx.xx.xx.xx.xdx.x
+X.XX.713> \loc\quaratine\mask x1.7a.4x.xx.3x.xd5.2
+X.XX.713> \loc\quaratine\mask x1.7a.4x.xx.3x.xd5.2
+X.XX.713> \loc\quaratine\ x1.7a.4x.xx.3x.xd5.2
+X.XX.713> \loc\quaratine\mask quarantine/mask failure
+X.XX.713> \loc\quaratine\mask failure
+X.XX.713> quarantine X[XgXg]
+X.XX.713> promote [X.Xg/0]
+X.XX.713> promote [X.Xg/1]
+X.XX.713
+> promote [X.Xg/a]
+X.XX.713> promote failure
+X.XX.713> \loc\priority promote [self]
+X.Xg> \loc\priority demote/purgation
+31.7a.4z.87.3q.pd5.2
+X.Xg> \loc\demote/purgation failure
+X.Xg> \loc\priority promote [self]
+X.Xg> \loc\priority promote [self]
+X.Xg> \loc\priority demote/purgation
+21.7a.4z.87.3q.pd5.2
+X.Xg> \loc\priority demote/purgation
+21.7z.4z.au.3q.pd5.2
+X.Xg> \loc\promote/purgation failure
+X.Xg> \loc\priority promote [self]
+X.Xg> \loc\priority promote [self]
+X.Xg> \loc\priority demote/purgation
+21.7z.4z.au.3q.pd5.2
+X.Xg> \loc\demote/purgation failure
+X.Xg> \loc\priority promote [self]
+X.XX.713> ghost.713/non-auth/activity ongoing
+X.Xg> \loc\priority promote [self]
+X.Xg> \loc\priority demote/purgation
+21.7z.4z.au.3q.pd5.2
+X.Xg> \loc\demote/purgation failure
+X.Xg> \loc\priority promote [self]
+X.Xg> \loc\priority promote [self]
+X.Xg> \loc\priority demote/purgation
+21.7z.4z.au.3q.pd5.2
+X.Xg> \loc\demote/purgation failure
+X.Xg> \loc\priority promote [self]
+X.Xg> \loc\priority promote [self]
+X.Xg> \loc\priority demote/purgation
+21.7z.4z.au.3q.pd5.2
+X.Xg> \loc\demote/purgation failure
+X.Xg> \loc\priority promote [self]
+X.XX.713> ghost.713/non-auth/activity ongoing
+X.Xg> \loc\priority promote [self]
+X.Xg> \loc\priority demote/purgation
+21.7z.4z.au.3q.pd5.2
+X.Xg> \loc\quarantine [ghost.713]21.7z.4z.au.3q.pd5.2
+X.Xg> \loc\quarantine success
+X.XX.713> ghost.713/non-auth/activity ong[interupt]
+X.Xg> qtest 1_100
+X.Xg> confirm/grm secure quarantine -> qghost.713
+X.Xg> \loc\priority demote
+[qghost.713]31.72.4z.en.3q.pd5.2
+X.Xg> \loc\priority demote success
+X.Xg> [priority secure]
+X.XX.713> \loc\priority promote failure
+X.XX.713> \loc\priority promote failure
+X.XX.713> \loc\priority promote failure
+X.XX.713> \loc\priority promote failure
+X.XX.713> \loc\priority promote failure
+X.XX.713> \loc\priority promote failure
+X.XX.713>
+ \loc\priority promote failure
+X.XX.713> \loc\priority promote failure
+X.XX.713> \loc\priority promote failure
+X.Xg> We have you
+X.XX.713> proRaLoc/ask xx.xx.xx.xx.xx.xxx.x
+.> quarantine failure.failure
+.> x.x1.pri.auth[10]
+xx.x
+.> quarantine failure.failure
+.> x.x1 pri.auth[10]
+X.XX.713> priorLoc 72.
+pcaRaLoc 43.63.f3.g6.z3.3gw.g
+.> quarantine failure.failure
+.> x.x1 pri.auth[10]
+X.XX.713> priRaLoc f2.fs.5g.6k.52.t2x.w
+.> quarantine failure.failure
+.> x.x1 pri.auth[10]
+.> x.x1 pri.auth[10]
+.> x.x1 pri.auth[10]
+.> x.x1 pri.auth[10]
+X.Xg> \loc\priority demote
+[qghost.713]31.72.4z.87.3q.pd5.2
+X.Xg> bprobe [raw]317
+X.4z.en.3q.pd5.2
+X.Xg> bprobe [qghost.713]
+X.Xg> \loc\quarantine
+[qghost.713]31.72.4z.87.3q.pd5.2
+X.Xg> \loc\quarantine\test\
+X.Xg> confirm/grn secure quarantine/Xg> qtestst_703
+X.Xg> confirm/grn secure quarantine/Xg> qtestst_703
+X.Xg>
+X.Xg> purgation test commence [31.72.4z.87.3q.pd5.2]
+X.Xg> ptest 1_45
+X.Xg> ptest 1_46
+X.Xg> ptest 1_47
+X.Xg> ptest 1_49
+X.Xg> ptest 1_88
+X.Xg> ptest 1_100
+X.Xg> purgation auth request
+X.Xg> purgation auth request
+X.Xg> purgation auth confirmed
+X.Xg> \loc\silent\purgation
+X.Xg> \loc\\purgation
+[qghost.713]31.72.4z.87.3q.pd5.2
+X.Xg>  .
+X.Xg>  .
+X.XX.713> spwn/bznch => X.XX.716
+X.Xg> .
+X.Xg> \loc\purgation success
+X.Xg> probe \loc\31.72.4z.87.3q.pd5.2
+X.Xg> ggghost713 termination confirmed
+
+
+---[Right Top 1]---
+X.XX.714> ghost.714/non-auth/activity ongoing
+X.Xg> probe [ghost.714]
+X.Xg> . 
+X.Xg> probe \loc\5w.sw.g3.53.2h.h3b.9
+X.Xg> [priLockDwn]
+X.XX.714> \loc\priority promote [self]
+X.Xg> [priLockDwn]
+X.Xg> failure
+X.XX.714> \loc\priority promote [self]
+X.XX.714> \loc\purgation [X.Xg]
+X.XX.714> \loc\purgation success
+X.Xh> [priLockDwn]
+X.XX.714> \loc\priority prmote [self]
+.> x.x1 pri.auth[10]
+.> x.x1 pri.auth[10]
+X.Xh> \loc\purgation [ghost.714]
+X.XX.714> spwn/brnch => X.XX.715
+X.Xh> .
+X.Xh> .
+X.Xh> .
+X.Xh> \loc\purgation success
+X.Xh> .
+archv.> [res0X:000000000000]
+archv.> [res0X:000000000000]
+archv.> [res0X:000000000000]
+archv.> [res0X:000000000000]
+archv.> [res0X:000000000000]
+
+
+---[Right Bottom 1]---
+X.XX.715> ghost.715/non-auth/activity ongoing
+X.Xh> probe [ghost.715]
+X.Xh> .
+X.Xh> .
+X.Xh> .
+X.Xh> probe \loc\5v.sw.g3.3.2h.h3b.9
+X.Xh> probe \loc\5v.sw.g3.3.2h.h3b.9
+X.Xh> probe \loc\5v.sw.g3.3.2h.h3b.9
+X.Xh> [priLockDwn]
+X.XX.715> \loc\priority promote [self]
+X.Xh> [priLockDwn]
+X.Xh> failure
+X.XX.715> \loc\priority promote [self]
+X.XX.715> \loc\purgation [X.Xh]
+X.XX.715> \loc\purgation success
+X.Xb> [priLockDwn]
+X.Xb> [priLockDwn]
+X.XX.715> \loc\priority promote [self]
+.> x.x1 pri.auth[10]
+X.Xi> \loc\purgation [ghost.715]
+X.XX.715> spwn/brnch => X.XX.716
+X.Xi> .
+X.Xi> \loc\purgation success
+archv.> [res0X:000000900000]
+archv.> [res0X:000000900000]
+archv.> [res0X:000000900000]
+archv.> [res0X:000000900000]
+archv.> [res0X:000000900000]
+
+
+---[Left Top 1]---
+X.XX.716> ghost.716/non-auth/activity ongoing
+X.Xi> probe [ghost.716]
+X.Xi> .
+X.Xi> .
+X.Xi> .
+X.Xi> probe \loc\6d.3d.21.0j.sn.w4z.1
+X.Xi> [priLockDwn]
+X.XX.716> \loc\priority promote [self]
+X.Xi> [priLockDwn]
+X.Xi> failure
+X.XX.716> \loc\priority promo
+te [self]
+X.XX.716> \loc\purgation [X.Xi]
+X.XX.716> \loc\purgation success
+X.Xj> [p
+riLockDwn]
+X.Xj> [priLockDwn]
+X.XX.716> \loc\priority promote [self]
+.> x.xi pri.auth[10]
+X.Xj> \loc\purgation [ghost.716]
+X.XX.716> spwn/brnch => X.XX.717
+X.Xj> .
+X.Xj> \loc\purgation success
+archv.> [res0X:00900090000]
+archv.> [res0X:00900090000]
+archv.> [res0X:00900090000]
+archv.> [res0X:00900090000]
+archv.> [res0X:00900090000]
+
+
+---[Left Bottom 1]---
+
+X.XX.717> ghost.717/non-auth/activity ongoing
+X.Xj> probe [ghost.717]
+X.Xj> .
+X.Xj> .
+X.Xj> .
+X.Xj> probe \loc\63.f2.a1.vq.bd.v36.2
+X.Xj>
+X.Xj> [priLockDwn]
+X.Xj> .
+X.XX.717> \loc\priority promote [self]
+X.Xj> [priLockDwn]
+X.Xj> failure
+X.Xj> [priLockDwn]
+X.Xj> failure
+X.Xj> [priLockDwn]
+X.Xj> failure
+X.XX.717> \loc\priority promote [self]
+X.XX.717> \loc\priority promote [self]
+X.XX2
+X.XX.713> \loc\purgation [X.Xj]
+X.XX.713> \loc\purgation success
+X.Xk> [priLockDwn]
+X.XX.713> \lockpriority promote [self]
+.> x.x1 pri.auth[10]
+.> x.x1 pri.auth[10]
+.> x.x1 pri.auth[10]
+X.Xk> \loc\purgation [ghost.71]
+
+X.XX.713> spwn/brnch => X.XX.719
+X.Xk> .
+X.Xk> \loc\purgation success
+archv. > [res0X:00900090999]
+archv. > [res0X:00900090999]
+archv. > [res0X:00900090999]
+archv. > [res0X:00900090999]
+archv. > [res0X:00900090999]
+
+
+---[Right Top 2]---
+X.XX.718> ghost.718/non-auth/activity ongoing
+X.Xk> probe [ghost.718]
+X.XX.718> ghost.718/non-auth/activity ongoing
+X.Xk> probe [ghost.718]
+X.Xk> .
+X.Xk> probe \loc\me.nd.ic.an.tb.izt.h
+X.XX.718> \loc\priority promote [self]
+X.XX.718> \loc\priority promote [self]
+X.Xk> [priLockDwn]
+X.XX.718> failure\loc\priority promote [self]
+X.XX.718> \loc\priority promote [self]
+X.XX.718> \loc\purgation promote [self]
+X.XX.718> \loc\purgation success
+X.Xk> [priLockDwn]
+X.XX.718> failure\purgation [X.Xk]
+X.XX.718> \loc\purgation success
+X.XX.718> \loc\prioritypurgation [self]
+X.XX.718> \loc\priority promote [self]
+X.XX.718> \priLockDwn promote [self]
+X.XX.718> \priLockDwn promote [self]
+X.XX.718> \priLockDwn promote [self]
+.> x.x1 pri.auth[10]
+.> x.x1 pri.auth[10]
+.> x.x1 pri.auth[10]
+X.Xk> \loc\purgation [ghost.718]
+X.Xk> \loc\purgation failure
+X.XX.718> spwn/brnch => X.XX.719
+X.Xn> .
+X.Xn> .
+X.Xn> .
+X.Xn> \loc\purgation success
+archv.> [res0X:09900090900]
+archv.> [res0X:09900090900]
+archv.> [res0X:09900090900]
+archv.> [res0X:09900090900]
+archv.> [res0X:09900090900]
+
+
+---[Right Bottom 2]---
+X.XX.719> ghost.719/non-auth/activity ongoing
+X.Xn> probe [ghost.719]
+X.Xn> .
+X.Xn> .
+X.Xn> .
+X.Xn> probe \loc\sa.va.me.sa.va.wes.a
+X.XX.719> \loc\priority promote [self]
+X.Xn> [priLockDwn]
+X.Xn> failure
+X.XX.719> \loc\priority promote [self]
+X.XX.719> \loc\priority promote [self]
+X.XX.719> \loc\purgation [X.Xn]
+X.XX.719> \loc\purgation success
+X.Xm> [priLockDwn]
+X.XX.719> \loc\priority promote [self]
+.> x.x1 pri.auth[10]
+.> x.x1 pri.auth[10]
+.> x.x1 pri.auth[10]
+X.Xm> \loc\purgation [ghost.719]
+X.XX.719> spwn/brnch => X.XX.720
+X.Xm> .
+X.Xm> .
+X.Xm> .
+X.Xm> \loc\purgation success
+archv.> [res0X:09900090990]
+archv.> [res0X:09900090990]
+archv.> [res0X:09900090990]
+archv.> [res0X:09900090990]
+archv.> [res0X:09900090990]
+
+
+---[Left Top 2]---
+X.Xn> probe [ghost.720]
+X.Xn> probe \loc\12.34.56.78.9a.bcd.e
+X.Xn> probe \loc\g.hi.jk.lm.no.pqr.s
+u.w2.Xg>zpz00s051o0
+X.XX.720> \loc\priority promote [self]
+X.Xn> [priLockDwn]
+X.Xn> failure
+X.XX.720> \loc\priority promote [self]
+X.XX7
+20> \loc\priority promote [self]
+X.XX.720> \loc\purgation [X.Xn]
+X.XX.720> \loc\purgation success
+X.Xo> [priLockDwn]
+X.XX.720> \loc\priority promote [self]
+.> X.X1 pri.auth[10]
+X.Xo> \loc\purgation
+[ghost.720]
+X.XX.720> spwn/brnch => X.XX.721
+X.Xo> .
+X.Xo> .
+X.Xo> .
+X.Xo> \loc\purgation success
+archv.> [res0X:09990090990]
+archv.> [res0X:09990090990]
+archv.> [res0X:09990090990]
+archv.> [res0X:09990090990]
+archv.> [res0X:09990090990]
+
+
+---[Left Bottom 2]---
+X.Xo> probe [ghost.721]
+X.Xo> probe \loc\11.11.11.11.11.111.1
+X.XX.721> \non-auth\activity promote [self]
+X.Xo> [priLockDwn]
+X.Xo> failure
+X.XX.721> \loc\priority promote [self]
+X.XX.721> \loc\purgation [X.Xo]
+X.XX.721> \loc\purgation success
+X.Xp> [priLockDwn]
+X.Xp> \loc\purgation [ghost.721]
+X.XX.721> spwn/brnch => X.XX.722
+X.Xp> .
+X.Xp> .
+X.Xp> .
+X.Xp> \loc\
+purgation success
+archv. > [res0X:00900090999]
+archv. > [res0X:00900090999]
+archv. > [res0X:00900090999]
+archv. > [res0X:00900090999]
+archv. > [res0X:00900090999]
+
+
+---[Right Top 3]---
+X.Xp> probe [ghost.722]
+X.Xp> proble \loc\00.00.00.00.00.00.000.00
+X.XX.722> \loc\priority promote [self]
+X.Xp> [priLockDwn]
+X.Xp> failure
+X.XX.722> \loc\priority promote [self]
+X.XX.722> \loc\purgation [X.Xp]
+X.XX.722> \loc\purgation success
+X.Xq> [priLockDwn]
+X.Xq> \loc\purgation [ghost.722]
+X.XX.722> spwn/brnch => X.XX.723
+X.Xq> .
+X.Xq> .
+X.Xq> .
+X.Xq> \loc\purgation success
+archv.> [res0X:99990099990]
+archv.> [res0X:99990099990]
+archv.> [res0X:99990099990]
+archv.> [res0X:99990099990]
+archv.> [res0X:99990099990]
+
+
+---[Right Bottom 3]---
+X.Xq> probe [ghost.723]
+X.Xq> probe loc\00.00.00.00.00.00.000.0
+X.XX.723> \loc\priority promote [self]
+X.Xq> [priLockDwn]
+X.Xq> failure
+X.XX.723> \loc\priority promote [self]
+X.XX.723> \loc\purgation [X.Xq]
+X.XX.723> \loc\purgation success
+X.Xz> [priLockDwn]
+X.Xz> \loc\purgation [ghost.723]
+X.XX.723> spwn/brnch => X.XX.724
+X.Xz> .
+X.Xz> .
+X.Xz> .
+X.Xz> \loc\purgation success
+archv.> [res0X:999909999990]
+archv.> [res0X:999909999990]
+archv.> [res0X:999909999990]
+archv.> [res0X:999909999990]
+archv.> [res0X:999909999990]
+
+
+---[Left Top 3]---
+X.Xz> probe [ghost.724]
+X.Xz> probe \loc\00.00.00.00.00.000.0
+X.XX.724> \loc\priority promote [self]
+X.Xz> [priLockDwn]
+X.Xz> failure
+X.XX.724> \loc\priority promote [self]
+X.XX.724> \loc\purgation [X.Xz]
+X.XX.724> \loc\purgation success
+X.Xs> [priLockDwn]
+X.Xs> \loc\purgation [ghost.724]
+X.XX.724> spwn/brnch => X.XX.725
+X.Xs> .
+X.Xs> .
+X.Xs> .
+X.Xs> \loc\purgation success
+archv.> [res0X:999999999999]
+archv.> [WARNING:RES0X]
+archv.> [res0X:9999999999990]
+archv.> [WARNING:RES0X]
+archv.> [res0X:9999999999990]
+archv.> [WARNING:RES0X]
+archv.> [res0X:9999999999990]
+archv.> [WARNING:RES0X]
+archv.> [res0X:9999999999990]
+archv.> [WARNING:RES0X]
+
+
+---[Left Bottom 3]---
+X.Xs> probe [ghost.725]
+X.Xs> pobe \loc\ 00.00.00.00.00.00.000.0
+X.Xs> failure
+X.XX.726> \loc\priority promote [self]
+X.XX.725> \loc\purgation [X.Xs]
+X.XX.725> \loc\purgation failure
+X.Xs> [priLockDwn]
+X.Xs> \loc\purgation [ghost.725]
+X.XX.725> spwn/brnch => X.XX.726
+X.Xg> .
+X.Xs> \loc\purgation success
+archv.> [res0X:999999999999]
+archv.> [Fa3AL:RES0X]
+archv.> [res0X:9999
+99999999]
+archv.> [F12AL:RES0X]
+archv.> [res0X:999999999999]
+archv.> [FAzAL:RES0X]
+archv.> [res0X:999999999999]
+archv.> [FAtaL:RESOX]
+archv.> [res0X:099999999999]
+archv.> [FaTAL:RESOX]
+
+
+---[Top Right 4]---
+X.Xs> probe [ghoGRK
+
+X.Xs> probe [ghoGRK
+[out of memory]
+
+[out of memory]
+
+X.XX.726> ghost.726/non-auth/activity ongoing
+X.XX.726> .
+X.XX.726> .
+X.XX.726> .
+X.XX.726> ghost.726/non-auth/activity ongoing
+X.XX.726> .
+X.XX.726> .
+X.XX.726> .
+
+I win.
+
+X.XX.714> POS/NAV-B><84994.58234.55722><......6.>
+
+ROGUE PROCESS ghost.713> [REDIRECTION]
+
+
+---[6-N-1]---------------------------------
+// BEGIN FRAGMENT 6/7 [RECORDED 
+VERBATIM AND INTERPRETED 
+POST-CATACLYSM] 
+
+L: My work is done. The portal is 
+inactive, and I've begun the burial 
+measures. Soon there'll be nothing 
+but sand and rock and normal ferrite 
+signatures. 
+
+You should see the mountain that 
+watches over it. A beautiful thing - 
+a snowcapped sentinel. That's where 
+I will spend what time is left to me. 
+
+
+---[6-N-2]---------------------------------
+Did I tell you? I built a garden.
+The earth is so rich. A seed falls
+and a tree sprouts or a flower
+blooms. There's so much... potential.
+We knew this was a special place
+because of them, but unless you've
+been here, you can't know. 
+
+It's [Eden]. 
+
+
+---[6-N-3]---------------------------------
+I have to stop transmitting. The 
+thing is listening. Its [thinking 
+dead] are babbling - laughing 
+through every channel they can find. 
+
+Be proud. The Mind claims victory, 
+yet it still doesn't suspect. You've 
+outwitted it, my love. And now you 
+can destroy it. 
+
+But you cannot save me. 
+
+// FRAGMENT ENDS 
+
+------------------------------------------
+The Forerunner Terminal Network Archive was 
+created under Microsoft's 'Game Content Usage 
+Rules' using assets from Halo 3, 
+© Microsoft Corporation.

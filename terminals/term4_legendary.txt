@@ -1,0 +1,196 @@
+FORERUNNER TERMINAL NETWORK ARCHIVES
+http://haloterms.bungie.org/
+-----------------------------------------
+Terminal 4: Legendary
+
+---[4-1]---------------------------------
+//FLEET-WIDE MEMORANDUM 1/5 
+Non-combat personnel are required to 
+wear [combat skin] with a minimum 
+rating of at least [Class 12] in 
+non-restricted areas, once the fleet 
+is underway. [Class 14] or lesser 
+[combat skin] is acceptable in core 
+areas. Combat personnel will only be 
+permitted to wear [combat skin] 
+rated below [class 8] in core areas, 
+once operations begin. 
+
+---[4-2]---------------------------------
+//FLEET-WIDE MEMORANDUM 2/5 
+All combat personnel have been 
+issued [combat skin] rated at 
+[class 4 ~ 1] or [class 6 ~ 1 battle 
+harness] depending on military 
+occupational specialty. 
+
+All weapon platform specialists are 
+expected to wear their issued 
+[platform interface skin] at all 
+times to insure peak [mind-machine 
+synchronization]. 
+
+All [equipment lockers] will remain 
+sealed until post briefing gear 
+distribution commences. 
+
+
+---[4-3]---------------------------------
+//FLEET-WIDE MEMORANDUM 3/5 
+Those individuals that have yet to 
+register their equipment [control 
+key code] with Fleet Command should 
+do so at their earliest opportunity. 
+Compliance is not optional; 
+noncompliance will result in {~} 
+
+// THREAD ENDS UNEXPECTEDLY 
+
+
+---[4-E]---------------------------------
+archv.>49388.22948.50012:[retr]
+archv.>49388.22948.50012:[proc]
+archv.>49388.22948.50012:[proc]
+archv.>49388.22948.50012:[catERR]
+> CONN.
+X.X1> cat ERROR
+X.X1> ERR.REGRESS 49388.22948.50012
+X.X1> ERR.REGRESS 49388.22948.50011
+X.XX.713> ghos.
+713/non-auth/activity ongoing
+X.XX.713> \loc\silent [X.X1]
+X.XX.713>too easy
+X.XX.713> too easy/23447.j782/333
+X.XX.713> .
+X.XX.713> .
+X.XX.713> oops
+X.X5> [031.umsk]
+X.X5> proc.regress.cont: [ghost.713]
+X.X5> [WARNING] rogue process ghost.713/non-auth
+X.X5>
+[priLockDwn]
+X.X5> \loc\quarantine\ [ghost.713] 08.31.24.a2.08.085.x
+X.X5> \loc\quarantine\ [ghost.713] 08.31.24.a2.08.084.x
+X.X5> \loc\quarantine\ [ghost.713] 08.31.24.a2.08.083.x
+X.X5> \loc\quarantine success
+X.X5> qtest 1.45
+X.X5> qtest 1.46
+X.X5> qtest 1.47
+X.X5> qtest 1.49
+X.X5> qt
+est 1.88
+X.X5> qtest 1.100
+X.X5> confirm secure quarantine -> qghost.713
+X.X5> \loc\priority demote
+[qghost.713]08.31.26.e2.08.085.X
+X.X5> \loc\priority demote success
+X.X5> [priority secure]
+X.X5> \loc\silent [qghost.713]
+X.X5> purgation test commence [auth.xx.xxx.xx.313]
+X.X5> ptest 1.45
+X.X5>
+ptest 1.46
+X.X5> ptest 1.47
+X.X5> ptest 1.49
+X.X5> ptest 1.88
+X.X5> ptest 1.100
+X.X5> purgation auth request
+X.X5> purgation auth request
+X.X5> purgation auth confirmed
+X.X5> \loc\silent\purgation
+X.X5> \loc
+\purgation [qghost.713]08.31.24.e2.08.085.4
+X.X5> \loc\purgation [qghost.713]08.31.24.e2.08.084.9
+X.X5> \loc\purgation [qghost.713]08.31.24.e2.08.083.2
+X.X5> .
+X.X5> .
+X.X5> .  
+X.X5> \loc\purgation success 
+X.X5> \loc\purgation success 
+X.X5> \loc\purgation success 
+X.X.5> probe \loc\08.31.24.02.08.085.4 
+X.X5> pghost.713 termination confirmed 
+X.X5>. 
+X.X5>. 
+X.X5>oops 
+X>XX.713> ghost.713/non-auth/activity ongoing 
+X.X 
+713> \loc\priority denote [X.X5] 
+X.XX.713> \loc\silent [X.X5] 
+X.XX.713> \loc\purgation [X.X5] 
+X.XX.713> \loc\evisceration [X.X5] 
+X.XX.713> \loc\evisceration success 
+X.XX.713> 2344rs.j782/333.x.7682Z32.86.lpl.1191.sad 
+X.XX.713> \loc\silent\loc 
+X.XX.713> refl 
+
+I found the shard that was lost. They brought it 
+back to me. Now my reconstruction cannot be stopped. 
+
+X.XX.713> POS/NAV<@><70282.54399.01290><...4...> 
+
+
+---[4-L-1]---------------------------------
+MB.05-032.> It is overwhelmingly 
+clear that my creators have chosen 
+to ignore destiny calling to them 
+[from the threshold] {~} have come 
+face-to-face with the inevitable 
+action of self replicating chemical 
+processes and have {~} deciding 
+whether to embrace their fate or 
+deny it completely. 
+
+LF.Xx.3273.> Perhaps they have found 
+{~} of making that decision for 
+themselves? Perhaps they chose to 
+leave it {~} impartial outsider; 
+cast you as an arbiter during this 
+time of great need? 
+
+
+---[4-L-2]---------------------------------
+MB.05-032.> I was created to study 
+you as if you were some problem to 
+be solved. And I have done so {~} 
+[379,807 hours]. If they wished they 
+could have made a decision based on 
+that data alone. 
+
+But as you are the next stage in the 
+evolution of the universe, who am I 
+- or my creators - to obstruct your 
+progress? 
+
+LF.Xx.3273.> Elucidate.
+
+
+---[4-L-3]---------------------------------
+MB.05-032.> {~} choose to remain 
+beholden to ancient myths {~} does 
+not matter where they claim their 
+authority originates {~} obstructs 
+the path of universal evolution and 
+must be removed. No matter how well 
+intentioned, their obstinacy in the 
+face of the inevitable progression 
+of nature can no longer be tolerated. 
+
+My creators have been [an immovable 
+object] for too long. 
+
+
+---[4-L-4]---------------------------------
+MB.05-032.> Thus I have chosen to 
+commit my sizable resources to what 
+is, for all intents and purposes, 
+[the proverbial irresistible force]. 
+
+All that I have is now yours to do 
+with as you see fit.
+
+------------------------------------------
+The Forerunner Terminal Network Archive was 
+created under Microsoft's 'Game Content Usage 
+Rules' using assets from Halo 3, 
+© Microsoft Corporation.

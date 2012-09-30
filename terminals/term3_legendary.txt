@@ -1,0 +1,243 @@
+FORERUNNER TERMINAL NETWORK ARCHIVES
+http://haloterms.bungie.org/
+-----------------------------------------
+Terminal 3: Legendary
+
+---[3-L-1]---------------------------------
+REPORT: SECURITY BREACH: 1/3 
+Heuristic pathology; [alpha site] 
+experienced an impermanent 
+containment failure event on 
+[spurious-data/no_ref.[?]]. The 
+suspect data barrier interchange 
+anomaly was detected precisely 
+[.489 seconds] after its appearance. 
+The epicenter of the disturbance is 
+the partition currently housing a 
+[personality construct array] 
+retrieved from Contender AI 05-032 
+<+> 0816.
+
+
+---[3-L-2]---------------------------------
+REPORT: SECURITY BREACH: 2/3 
+Although [adjacent] systems reacted 
+to the disturbance within expected 
+parameters, a more comprehensive 
+investigation was undertaken. 
+A physical search revealed that 
+there was no [corporeal] tampering 
+at the [alpha site]. 
+
+
+Interchange manipulation comparisons 
+showed that all subunits are still 
+active, if at slightly lower rates. 
+Total containment failure elapsed 
+time was [3.13 seconds]. 
+
+
+---[3-L-3]---------------------------------
+REPORT: SECURITY BREACH: 3/3 
+In the [42 minutes, 9 seconds] since 
+the original anomaly was discovered 
+two more anomalies were detected in 
+unrelated systems. 
+
+The portal management/life support 
+control system within the boundary 
+complex was momentarily disabled 
+before the cause was [bottled] and 
+disassembled. A diagnostic sweep of 
+the central archives was initiated 
+and subsequently halted. The origin 
+of the request cannot be traced. 
+
+
+---[3-E]---------------------------------
+archv.> 28385.67204.85720:[retr] 
+archv.> 28385.67204.85720:[proc] 
+archv.> 28385.67204.85720:[proc] 
+archv.> 28385.67204.85720:[priERR]
+>CONN.
+X.X4> pri ERROR
+X.X4>ERR.REGRESS.97840.65499.66938
+X.X4>ERR.REGRESS.97840.65499.66938
+X.X4> ERR.REGRESS 976
+.65499.66923
+X.X4>ERR.REGRESS.97840.65499.66723
+X.X4>ERR.REGRESS.97840.65499.66723
+X.X4>ERR.REGRESS.97840.65499.66723
+X.X4>ERR.REGRESS.97840.65491.66733
+X.X4>ERR.REGRESS.97840.65491.66733
+X.X4>ERR.REGRESS.97840.65491.66733
+X.X4>ERR.REGRESS.978406
+.65499.66733
+X.X4> ERR.REGRESS 97840.65499.66933 
+X.X4> ERR.REGRESS 97840.65499.66923 
+X.X4> ERR.REGRESS 97840.65499.66723 
+X.X4> ERR.REGRESS 97840.65499.62723 
+X.X4> ERR.REGRESS 97840.65499.42723 
+X.X4> ERR.REGRESS 97840.65491.42733 
+X.X4> ERR.REGRESS 97840.65451.42733 
+X.X 
+ERR.REGRESS 97840.65051.42733 
+X.X4> ERR.REGRESS 97840.62051.42733 
+X.XX.713> ghost.713/nonauth/activity ongoing 
+X.XX.713> \loc\silent [X.X4] 
+X.XX.713> \loc\silent [X.X3] 
+X.XX.713> \loc\silent [X.X2] 
+X.XX.713> \loc\silent [X.X1] 
+X.XX.713> 2344m.g782/333 
+.768232.88.1p1.1191.sad 
+X.XX.713> \loc\silent\loc 
+X.XX.713> refl
+
+I see you, reclaimer.
+
+X.XX.713> POS/NAV<@><55703.22009.86582><..3....>
+
+
+---[3-L-4]---------------------------------
+LF.Xx.3273.> Those who lead amongst 
+your {~} exposed themselves {~} ill 
+equipped to recognize the landmarks 
+that guide the universe along its 
+inevitable course. 
+
+MB.05-032.> But is it necessary that 
+the path be chosen on an {~} and not 
+by an elected subset? I believe this 
+would tend to {~} when they gather 
+in large numbers they become more 
+{~} I don't think the problem lies 
+with individual cultural bias {~}
+
+
+---[3-L-5]---------------------------------
+LF.Xx.3273.> {~} all the thinking 
+beings of this galaxy, not just 
+those that they{~} exactly are they 
+afraid of? Immortality and strength 
+and companionship? Because that is 
+{~} do: to deliver all of the living 
+beings of this galaxy from death and 
+weakness and loneliness. 
+
+MB.05-032.> Hundreds of {~} offered 
+this so called immortality. The 
+citizens of every world that {~} 
+resisted to the very end! 
+
+
+---[3-L-6]---------------------------------
+LF.Xx.3273.> {~} understand their 
+actions; they are only doing what 
+they think is right, but they are 
+doing so [from a worm's eye view]. 
+
+MB.05-032.> Do their actions {~} of 
+desperation? I can only assume my 
+creators view {~} crisis so dire 
+that any {~} hence me. 
+
+LF.Xx.3273.> Are they so concerned 
+{~} would give to all the living 
+beings of this galaxy is a threat to 
+[the status quo]? 
+
+
+---[3-L-7]---------------------------------
+LF.Xx.3273.> Your creators claim {~} 
+the enemy of all life; that {~} 
+purpose is to consume until there is 
+nothing left. Nothing left? It is 
+beyond comprehension how they could 
+be so [far off the mark]. 
+
+MB.05-032.> Surely you understand 
+this is a situation that would not 
+have {~} appearance of a certain 
+rapacious {~} my creators obviously 
+view them as the actions of an 
+aggressor species. 
+
+
+---[3-L-8]---------------------------------
+LF.Xx.3273.> [Be that as it may]; 
+perhaps they are crying out for help 
+on a subconscious level? Why else 
+would they have chosen you? Why you 
+of all possible executioners? {~} 
+your creators knew that unaided they 
+never stood a chance against us? {~} 
+also sense a deeper [motivation]. 
+
+MB.05-032.> You've mentioned this 
+before. When my creators {~} simply 
+chose the most versatile {~} how 
+could that possibly be more than a 
+coincidence? 
+
+
+---[3-L-9]---------------------------------
+LF.Xx.3273.> They repurposed {~} 
+into a weapon to use against {~} - 
+they sought to create something 
+superior to themselves. Something 
+capable of making decisions more 
+swiftly, more capably than they {~} 
+what form did they choose? You need 
+look no further than your own 
+[topology] to {~} 
+
+MB.05-032.> {~} distributed network? 
+That would confirm the independent 
+evolution of {~} in this galaxy! 
+
+
+---[3-L-10]---------------------------------
+LF.Xx.3273.> That is, unfortunately, 
+not the {~} similar to us {~} but 
+where you are a single intelligence 
+inhabiting multiple [instances], we 
+are a compound {~} consisting of 
+[a thousand billion] coordinated 
+minds inhabiting as many bodies as 
+circumstance require. 
+
+MB.05-032.> But doesn't it seem odd 
+that {~} coalesce; perhaps even to 
+contract {~}
+
+
+---[3-L-11]---------------------------------
+LF.Xx.3273.> {~} complexity {~} 
+spread {~} our appearance ushered in 
+the beginning of the third great 
+stage of evolution. The first {~} 
+condensation of particles was the 
+result of the inevitable action of 
+strong nuclear force and the 
+creation of stars {~} inevitable 
+action of gravity; so to the 
+self-replicating chemical processes 
+that dictate all disparate {~} In 
+time, we too shall affect change on 
+a universal scale. 
+
+
+---[3-L-12]---------------------------------
+MB.05-032.> Your capacity for 
+planning {~} creators too stubborn 
+{~} the same goal through the 
+preservation of genetic diversity 
+{~} what you are {~} like a more 
+direct path to the same outcome. 
+
+
+------------------------------------------
+The Forerunner Terminal Network Archive was 
+created under Microsoft's 'Game Content Usage 
+Rules' using assets from Halo 3, 
+© Microsoft Corporation.

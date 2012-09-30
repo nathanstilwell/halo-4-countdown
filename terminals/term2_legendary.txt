@@ -1,0 +1,245 @@
+FORERUNNER TERMINAL NETWORK ARCHIVES
+http://haloterms.bungie.org/
+-----------------------------------------
+Terminal 2: Legendary
+
+---[2-1]---------------------------------
+Re: Enemy naval tactics: 
+
+When engaged, the enemy commits 
+every non-supraluminal craft with no 
+appreciable pattern or strategy 
+beyond making physical contact. 
+Conversely, all supraluminal craft 
+leave on seemingly random 
+trajectories. 
+
+
+I understand the goal of this 
+mission but time - our least 
+abundant resource - is wasted every 
+time we do a system-wide scan for 
+survivors. The time for saving lives 
+has passed. We must accept this if 
+we hope to win the war. 
+
+
+---[2-2]---------------------------------
+Re: Enemy ground tactics: 
+
+All evidence suggests that use of 
+overwhelming force is the very 
+foundation of the enemy's combat 
+doctrine. And I adamantly refuse to 
+deploy personnel where the enemy has 
+available forces numbering in the 
+billions. With the very real 
+likelihood we are rapidly becoming 
+the last living specimens of our 
+race, all personnel are henceforth 
+confined to stasis until further 
+notice. Even with everyone equipped 
+with [C_12_CS[?]] we would have had 
+very little chance of survival, let 
+alone victory. 
+
+
+---[2-3]---------------------------------
+Re: Enemy command structure: 
+We have intercepted several 
+transmissions from compound 
+intelligences whose proximity to the 
+core worlds mark them as key 
+targets. At present we are 
+disassembling these new 
+transmissions. Once we have more 
+[concrete conclusions] I will 
+forward them in their entirety. 
+Suffice it to say, that their 
+contents - the patterns they suggest 
+- are highly disturbing. 
+
+
+---[2-4]---------------------------------
+Recommendations: 
+It is my opinion that any system 
+where there is evidence that the 
+enemy has established a physical 
+presence is lost and must be razed. 
+This fleet currently retains the 
+capacity to force premature stellar 
+collapse; I advise that this be 
+established as standard operating 
+procedure for all compromised 
+systems forthwith. We cannot fight 
+this war by half measures if we 
+intend to win. 
+
+
+---[2-E]---------------------------------
+archv.> 79372.74927.23340:[retr]
+archv.> 79372.74927.23340:[proc]
+archv.> 79372.74927.23340:[proc]
+archv.> 79372.74927.23340:[posERR]
+> CONN.
+> connERR
+> .
+> .
+> .
+> CONN.
+X.X3> pos/nav ERROR
+X.X3> ERR.REGRESS 79372.74927.23340
+X.X3> ERR.REGRESS 79372.74927.23345
+X.X3> ERR.REGRESS 79372.4
+927.23315
+X.X3> ERR.REGRESS 79372.74927.23015
+X.X3> ERR.REGRESS 79372.74927.21015
+X.X3> ERR.REGRESS 79372.74927.01015
+X.X3> ERR.REGRESS 79372.74926.01015
+X.X3> ERR.REGRESS 79372.74916.01015
+X.XX.713> ghost.713/non-auth/activity ongoing
+X.X3> ERR.REGRESS
+79372.74716.01015
+X.X3> ERR.REGRESS 79372.74716.01015
+X.X3> ERR.REGRESS 79372.72716.01015
+X.X3> ERR.REGRESS 79372.62716.01015
+X.X3> ERR.REGRESS 79372.62716.01015
+X.X3> ERR.REGRESS 79320.62716.011
+5
+X.X3> ERR.REGRESS 79020.74716.01015
+X.XX.713> ghost.713/non-auth/activity ongoing
+X.X3> ERR.REGRESS 77020.62716.01015
+X.X3> ERR.REGRESS 77020.62716.01015
+X.X3> ERR.REGRESS 77020.62716.01015
+X.X3> pos/nav source: X.XX.713
+X.X3> proc.regress: 1_12
+X.X3
+> proc.regress: 1_43
+X.X3> proc.regress: 1_61
+X.X3> proc.regress: 1_88
+X.X3> proc.regress: 1_100
+X.X3> prhc.regress: [unident] 
+X.X3> [WARNING] rogue process ghost.713/non-auth. 
+X.X3> [WARNING] \sysdiag\purgation 
+X.X3> ghost.713/non-auth/activity ongoing 
+X.X3>sysdiag 
+X.X3>\log\ 38.3.
+23.a1.09.084.> 
+X.X3>\loc\purgation 08.33.23.a1.09.084 
+
+X.X3> \loc\purgation failure 
+X.X3> \loc\priority demote 08.33.23.a1.09.084.> 
+X.X3> \loc\priority demote failure 
+X.XX.713> ghost.713/non-auth/activity ongoing 
+X.XX.713> \loc\priority demote 
+[X.X3]44.4F.19.72.48.313.1 
+X.XX.713> \loc\priority demote succs 
+
+X.XX.713> [priority secure] 
+X.XX.713> refl<8.9.3<. 
+X.XX.713> refl<8.9.3< adamantly refuse to commit 
+X.XX.713> refl<8.9.3< when the enemy has available 
+X.XX.713< refl<8.9.3< system that has had contact 
+X.XX.713< refl<8.9.3< enemy is lost and must be 
+X.XX.713> refl<8.9.3< compromised system forthwith 
+X.XX.713< refl<8.9.3<. 
+X.XX.713< POS/NAV<@><39577.48229.20398><.2.....>
+ 
+---[2-L-1]---------------------------------
+MB.05-032.> I must ask you to 
+forgive my vagueness on the matter, 
+but it is a regrettable {~} I find 
+your lack of concern for the 
+situation at hand astonishing. 
+Perhaps you would care to elucidate? 
+
+
+LF.Xx.3273.> {~} are here to spread 
+[comforting news]. To let all the 
+living beings in this galaxy know 
+{~} are not alone in the {~} What in 
+that message could possibly be taken 
+as a source of concern? 
+
+---[2-L-2]---------------------------------
+MB.05-032.> It seems that I'll never 
+truly understand my creators. But 
+
+how {~} that you speak of is one of 
+
+{~} rejected so violently? I am 
+incapable of reconciling the 
+numerous actions I have witnessed 
+{~} misunderstanding? 
+
+
+
+
+LF.Xx.3273.> It has been said {~} 
+secret of peace cannot {~} be 
+imposed. That {~} meaning of peace, 
+
+so they need to {~} When all living 
+beings look through {~} and the 
+thunder and the surf, when every 
+drop of rain falls on {~} know peace. 
+
+
+---[2-L-3]---------------------------------
+MB.05-032.> You have been able to 
+establish [a line of communication] 
+with the enemy? How was it that you 
+were able to overcome {~} where 
+others have failed? With this [new 
+discovery] we may be able to put an 
+end 
+to this pointless conflict. Once I 
+confirm your data I will communicate 
+the information to those inside the 
+[Maginot] sphere. 
+
+
+---[2-L-4]---------------------------------
+LF.Xx.3273.> It seems that it {~} 
+turn to apologize; it was never {~} 
+intention to misrepresent {~} have 
+been [in communication] with your 
+creators since {~} stumbled upon 
+each other, but {~} message has 
+[fallen on deaf ears]. {~} am not 
+the recipient of the message, {~} am 
+the origin of the message. 
+
+
+MB.05-032.> I have travelled a very 
+long time to meet you. I had 
+imagined that our [introduction] 
+would be somewhat more violent. 
+
+
+---[2-L-5]---------------------------------
+LF.Xx.3273.> That is a choice you 
+must make yourself; {~} to be how 
+your creators go about things. And 
+as long as we are talking about 
+choices {~} could talk about the 
+[barrier] you alluded to earlier? 
+Perhaps there is a way to accomplish 
+your mission without violence? Why 
+put the lives of those on your ships 
+at risk if there is no need? 
+
+
+
+
+MB.05-032.> In either circumstance I 
+certainly am equipped for it, aren't 
+I? But you're right; a peaceful 
+solution to this [dilemma] would be 
+preferable. 
+
+------------------------------------------
+The Forerunner Terminal Network Archive was 
+created under Microsoft's 'Game Content Usage 
+Rules' using assets from Halo 3, 
+© Microsoft Corporation.
