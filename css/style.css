@@ -61,7 +61,6 @@ body {
   display : none;
 
   margin : 0 auto;
-  width : 80%;
 }
 
 .road-to-requiem .title {
@@ -137,7 +136,6 @@ body {
   background-color : rgba(43, 74, 30, .25);
 }
 
-
 .mission-list .done,
 .mission-list .done:hover {
   color : #333;
@@ -145,6 +143,35 @@ body {
   background-color : rgba(100, 100, 100, .25);
   border : 1px solid #000;
 }
+
+
+
+
+
+  .extra {
+    margin : 20px auto;
+    width : 600px;
+  }
+
+  .extra .video {
+    margin : 20px;
+    width : 560px;
+  }
+
+  .extra .big {
+    margin : 20px auto;
+    width : 853px;
+  }
+
+  .big { display : none; }
+  .small { display : block; }
+
+
+
+
+
+
+
 
 .the-legal {
   background-color : #000;
@@ -194,6 +221,10 @@ body {
   .road-to-requiem .title {
     display : none;
   }
+
+  .extra {
+    display : none;
+  }
 }
 
 /* Medium */
@@ -213,6 +244,15 @@ body {
   .road-to-requiem .title {
     font-size : 70px;
   }
+
+  .extra {
+    width : auto;
+  }
+
+  .extra .video {
+    float : none;
+    margin : 20px auto;
+  }
 }
 
 /* Big */
@@ -228,6 +268,27 @@ body {
     height : 397px;
     width: 800px;
   }
+
+
+  .extra {
+    margin : 20px auto;
+    width : 1200px;
+  }
+
+  .extra .video {
+    float : left;
+    margin : 20px;
+    width : 560px;
+  }
+
+  .extra .big {
+    float : none;
+    margin : 20px auto;
+    width : 853px;
+  }
+
+  .big { display : block; }
+  .small { display : none; }
 
   .the-legal {
     padding : 1% 10%;
