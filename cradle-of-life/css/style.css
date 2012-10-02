@@ -1,0 +1,9 @@
+.frames {
+  margin : 50px auto;
+}
+
+.frame {
+  display : block;
+  margin : 0 auto 25px;
+  width : 780px;
+}
