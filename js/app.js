@@ -1,12 +1,10 @@
 define([
   'jquery',
   'src/countdown',
-  'src/campaign',
+  'src/campaign-progress',
   'src/data'
-], function ($, countdown, campaign, data) {
-  console.dir(data);
-
+], function ($, countdown, progress, data) {
   countdown.init($('#clock'), data.launchDate);
-  campaign();
+  progress(data.campaign);
 });
 

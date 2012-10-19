@@ -8,6 +8,7 @@
 body {
   margin : 0;
   padding : 0;
+  min-width : 300px ;
 }
 
 .main {
@@ -77,15 +78,20 @@ body {
   border: 1px solid #222;
   font-size: 14px;
   font-family: 'Andale Mono', sans-serif;
-  margin: 0 0 15px 0;
+  margin: 0 auto 15px;
   padding: 10px;
+  width : 80%;
 }
 
-.missions-left {
+.progress-count .focus {
+  font-weight : bold;
+}
+
+.progress-count .label {
   float : left;
 }
 
-.missions-finished {
+.progress-count .counters {
   float : right;
 }
 
@@ -115,24 +121,24 @@ body {
   border : 1px solid #142c45;
 }
 
-.mission-list .halo-reach {
+.halo-reach .mission {
   background-color : #214a1c;
   background-color : rgba(33, 74, 28, .25);
   border : 1px solid #000;
 }
-.mission-list .halo-ce {
+.halo-ce .mission {
   background-color : #2b114a;
   background-color : rgba(43, 17, 74, .25);
 }
-.mission-list .halo-2 {
+.halo-2 .mission {
   background-color : #4a2a16;
   background-color : rgba(74, 42, 22, .25);
 }
-.mission-list .halo-odst {
+.halo-odst .mission {
   background-color : #222;
   background-color: rgba(0, 0, 0, .45);
 }
-.mission-list .halo-3 {
+.halo-3 .mission {
   background-color : #2b4a1e;
   background-color : rgba(43, 74, 30, .25);
 }
@@ -140,6 +146,7 @@ body {
 
 .mission-list .done,
 .mission-list .done:hover {
+  display : none;
   color : #333;
   background-color : #202020;
   background-color : rgba(100, 100, 100, .25);

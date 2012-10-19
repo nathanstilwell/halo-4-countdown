@@ -1,318 +1,323 @@
-define([], function () {
+define(function () {
   return {
     launchDate : "November 6, 2012 00:00:00",
-    Campaign : [
+    campaign : [
       {
+        gameId : 'halo-reach',
         title : 'Halo Reach',
         missions : [
           {
             id : 'noble-actual',
             title : 'Noble Actual',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'winter-contingency ',
             title : 'Winter Contingency ',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'oni:-sword base',
             title : 'ONI: Sword Base',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'nightfall',
             title : 'Nightfall',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'tip-of the spear',
             title : 'Tip of the Spear',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'long-night of solace',
             title : 'Long Night of Solace',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'exodus',
             title : 'Exodus',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'new-alexandria',
             title : 'New Alexandria',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'the-package',
             title : 'The Package',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'the-pillar of autumn',
             title : 'The Pillar of Autumn',
-            status : 'done,'
+            status : 'done'
           }
         ] // misisons
       }, // halo reach
 
       {
+        gameId : 'halo-ce',
         title : 'Halo CE',
         missions : [
           {
             id : 'the-piller of autumn',
             title : 'The Piller of Autumn',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'halo',
             title : 'Halo',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'truth-and reconciliation',
             title : 'Truth and Reconciliation',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'the-silent cartographer',
             title : 'The Silent Cartographer',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'assault-on the control room',
             title : 'Assault on the Control Room',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : '343-guilty spark',
             title : '343 Guilty Spark',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'the-library',
             title : 'The Library',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'two-betrayals',
             title : 'Two Betrayals',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'keyes',
             title : 'Keyes',
-            status : 'done,'
+            status : 'done'
           },
           {
             id : 'the-maw',
             title : 'The Maw',
-            status : 'done,'
+            status : 'done'
           }
         ] // missions
       }, // halo ce
 
       {
+        gameId : 'halo-2',
         title : 'Halo 2',
         missions : [
           {
             id : 'cairo-station',
             title : 'Cairo Station',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'outskirts',
             title : 'Outskirts',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'metropolis',
             title : 'Metropolis',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'the-arbiter',
             title : 'The Arbiter',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'the-oracle',
             title : 'The Oracle',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'delta-halo',
             title : 'Delta Halo',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'regret',
             title : 'Regret',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'sacred-icon',
             title : 'Sacred Icon',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'quarantine-zone',
             title : 'Quarantine Zone',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'gravemind',
             title : 'Gravemind',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'uprising',
             title : 'Uprising',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'high-charity',
             title : 'High Charity',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'the-great journey',
             title : 'The Great Journey',
-            status : 'pending,'
+            status : 'done'
           }
         ] // missions
       }, // halo 2
 
       {
+        gameId : 'halo-odst',
         title : 'Halo ODST',
         missions : [
           {
             id : 'mombasa-streets',
             title : 'Mombasa Streets',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'tayari-plaza',
             title : 'Tayari Plaza',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'mombasa-streets',
             title : 'Mombasa Streets',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'uplift-reserve',
             title : 'Uplift Reserve',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'mombasa-streets',
             title : 'Mombasa Streets',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'kizingo-boulevard',
             title : 'Kizingo Boulevard',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'mombasa-streets',
             title : 'Mombasa Streets',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'oni-alpha site',
             title : 'ONI Alpha Site',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'mombasa-streets',
             title : 'Mombasa Streets',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'nmpd-hq',
             title : 'NMPD HQ',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'mombasa-streets',
             title : 'Mombasa Streets',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'kikowani-station',
             title : 'Kikowani Station',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'data-hive',
             title : 'Data Hive',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'coastal-highway',
             title : 'Coastal Highway',
-            status : 'pending,'
+            status : 'done'
           }
         ] // missions
       }, // halo odst
 
       {
+        gameId : 'halo-3',
         title : 'Halo 3',
         missions : [
           {
             id : 'arrival',
             title : 'Arrival',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'sierra-117',
             title : 'Sierra 117',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'crow’s-nest',
             title : 'Crow’s Nest',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'tsavo-highway',
             title : 'Tsavo Highway',
-            status : 'pending,'
+            status : 'done'
           },
           {
             id : 'the-storm',
             title : 'The Storm',
-            status : 'pending,'
+            status : 'pending'
           },
           {
             id : 'floodgate',
             title : 'Floodgate',
-            status : 'pending,'
+            status : 'pending'
           },
           {
             id : 'the-ark',
             title : 'The Ark',
-            status : 'pending,'
+            status : 'pending'
           },
           {
             id : 'the-covenant',
             title : 'The Covenant',
-            status : 'pending,'
+            status : 'pending'
           },
           {
             id : 'cortana',
             title : 'Cortana',
-            status : 'pending,'
+            status : 'pending'
           },
           {
             id : 'halo',
             title : 'Halo',
-            status : 'pending,'
+            status : 'pending'
           }
         ] // missions
       } // halo 3
