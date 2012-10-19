@@ -94,6 +94,15 @@ body {
   float : right;
 }
 
+
+.reference .link {
+  color : #4390e3;
+  display : block;
+  text-align : center;
+  margin : 10px auto;
+}
+
+
 .mission-list {
   color : #4390e3;
   font-family : 'ua squared', 'Andale Mono', monospace;
