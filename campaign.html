@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta id="view-lock" name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"> <!-- Stop the zoom on iPhone -->
+  <title>Halo 4 :: November 6th</title>
+  <link rel="stylesheet" href="/stylesheets/normalize.css">
+  <link rel="stylesheet" href="css/fonts.css">
+  <link rel="stylesheet" href="css/style.css">
+
+  <script src="/javascripts/vendor/modernizr-2.0.6.min.js"></script>
+</head>
+<body>
+
+  <section class="main clearfix">
+
+    <section class="heading">
+      <div class="logo" alt="Halo 4"></div>
+    </section>
+
+    <div id="clock" class="clock">00:00:00:00</div>
+
+    <section id="road-to-requiem" class="road-to-requiem">
+      <h2 class="title">Campaign</h2>
+    </section>
+
+  </section>
+
+<!--
+
+  == Incredible ==
+
+  http://www.ilovebees.com/
+  http://www.irisarchive.info/
+  http://haloterms.bungie.org/
+
+ -->
+
+  <footer class="the-legal">
+    Halo 4, Halo 3, Halo ODST, Halo 2, Halo CE &copy; Microsoft Corporation. This page was created under Microsoft's <a href="http://www.xbox.com/en-US/Community/Developer/Rules">"Game Content Usage Rules"</a> using assets from Halo 4, Halo 3, Halo ODST, Halo 2, and Halo CE. It is not endorsed by Microsoft and does not reflect the views or opinions of Microsoft or anyone officially involved in producing or managing Halo 4.  As such, it does not contribute to the official narrative of the fictional universe, if applicable.
+  </footer>
+
+  <section class="scripts">
+    <script id="campaign-game" type="text/x-handlebars-template">
+      <ul class="mission-list {{gameId}}">
+      {{#each missions}}
+        <li class="mission {{status}}">{{title}}</li>
+      {{/each}}
+      </ul>
+    </script>
+
+    <script data-main="js/campaign-config" src="/javascripts/amd/require.js"></script>
+  </section>
+
+
+</body>
+</html>

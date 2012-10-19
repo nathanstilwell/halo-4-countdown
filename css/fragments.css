@@ -1,0 +1,19 @@
+.fragments {
+  margin : 0 auto;
+  width : 80%;
+}
+
+.fragment {
+  text-align : center;
+  width : 602px;
+}
+
+.fragment .title {
+  font-family : 'Andale Mono', sans-serif;
+  font-size : 60px;
+}
+
+.fragment .code {
+  font-family : 'Andale Mono', sans-serif;
+  text-align : left;
+}
