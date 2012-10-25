@@ -292,22 +292,22 @@ define(function () {
           {
             id : 'the-storm',
             title : 'The Storm',
-            status : 'pending'
+            status : 'done'
           },
           {
             id : 'floodgate',
             title : 'Floodgate',
-            status : 'pending'
+            status : 'done'
           },
           {
             id : 'the-ark',
             title : 'The Ark',
-            status : 'pending'
+            status : 'done'
           },
           {
             id : 'the-covenant',
             title : 'The Covenant',
-            status : 'pending'
+            status : 'done'
           },
           {
             id : 'cortana',

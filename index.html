@@ -26,7 +26,6 @@
     </section>
 
     <div id="clock" class="clock">00:00:00:00</div>
-    <div id="campaign-progress" class="progress-count clearfix"></div>
 
     <section class="reference">
       <a class="link" href="http://haloterms.bungie.org/" title="Halo 3 Terminals">Halo 3 Terminals</a>
@@ -104,12 +103,29 @@
 
             <p>/END FILE/</p>
         </div>
+      </section>
 
 
       <section class="fragment">
         <h2 class="title">10.12.2012</h2>
         <img src="img/fragments/10.12.png" alt="Combined email image">
         <img src="img/fragments/cb6_Good-Will_10W2_new-.png" alt="Glitchy Forza Link">
+      </section>
+
+      <section class="fragment">
+        <h2 class="title">10.14.2012</h2>
+        <a class="link" href="http://www.youtube.com/watch?v=zmOoGucyMNg">Infinity Multiplayer Vidoc</a>
+        <p>13:26</p>
+        <p><img src="img/fragments/puzzle-pieces/InfinityMultiplayer.png
+" alt="Infinity Multiplayer Peice"></p>
+      </section>
+
+      <section class="fragment">
+        <h2 class="title">10.16.2012</h2>
+        <p><a class="link" href="http://view.engage.xbox.com/?j=fe9d16717764067a71&m=feca167070610c7c&ls=fe6512707d65077f7116&l=feb81c7877610d7a&s=fe1f1774736d037d7d1679&jb=ff951579&ju=fe5f10707563037d7d12&uid=82648354&tid=&r=0" title="Xbox Newsletter">Xbox Engage Newsletter</a></p>
+        <p><img src="img/fragments/section3.gif" alt="Section 3"></p>
+        <p><img src="img/fragments/puzzle-pieces/NewsletterLinked.jpg" alt="puzzled"></p>
+
       </section>
 
       <section class="fragment">
@@ -127,11 +143,56 @@
           <p>NOTE: A cluster of Sangheili frontier worlds saw a sudden and anomalous convergence of unregistered ships, largely cruisers of varying classes according to a handful of remote relays stationed nearby. By the time sensors were deployed, the ships were gone. The relays can’t assess numbers or strength, but the readings we have indicate that this wasn’t an expeditionary voyage or something tied to a single state. It appears to have been much larger.</p>
           <p>/END FILE/</p>
         </div>
+
+        <p><img src="img/fragments/section3.gif" alt="secion3"></p>
+        <p style="background-color : white"><img src="img/fragments/puzzle-pieces/Bulletin10.17.png" alt="Garbage Out"></p>
       </section>
 
-    </section>
+      <section class="fragment">
+        <h2 class="title">10.18.2012</h2>
+        <img src="img/fragments/xboxFacebookCover.jpg" alt="facebook cover" />
+        <img src="img/fragments/puzzle-pieces/xboxFacebookPuzzle.jpg" alt="Enhanced!" />
+      </section>
 
-  </section>
+      <section class="fragment">
+        <h2 class="title">10.20.2012</h2>
+        <a class="link" href="http://www.youtube.com/watch?v=B76QgnZcgI4">Glacier Video</a>
+        <p>0:23</p>
+        <p class="embiggen">05</p>
+      </section>
+
+      <section class="fragment">
+        <h2 class="title">10.21.2012</h2>
+        <a class="link" href="http://www.youtube.com/watch?v=4QlL2Vbd0-M">Butterfly Video</a>
+        <p>0:19</p>
+        <p class="embiggen">11</p>
+      </section>
+
+      <section class="fragment">
+        <h2 class="title">10.22.2012</h2>
+        <a class="link" href="http://view.engage.xbox.com/?j=fea416717666077d75&m=feca167070610c7c&ls=fe6513797567077c7416&l=feb81c7877610d7a&s=fe1b1775736d0c787d1c70&jb=ff60127373&ju=fe6910707164067b7512&uid=7751595&tid=&r=0">Xbox Engage Newsletter</a>
+        <p><img src="img/fragments/section3.gif" alt="section 3 file" /></p>
+        <p><img src="img/fragments/scrambled.jpg" alt="scrambled" /></p>
+        <p><img src="img/fragments/puzzle-pieces/NewsletterSpectrogram.png" alt="Spectrogram" /></p>
+
+      </section>
+
+
+      <section class="fragment">
+        <h2 class="title">10.23.2012</h2>
+        <a class="link" href="http://www.lethbridgeindustrial.com/" title="Lethbridge Industrial">Lethbridge Industrial site goes rampant</a>
+      </section>
+
+      <section class="fragment">
+        <h2 class="title">10.24.2012</h2>
+        <a class="link" href="http://www.youtube.com/watch?v=VQT_0bva4No" title="Hoover Dam">Hoover Dam Video</a>
+        <p>0:19</p>
+        <p clas="embiggen">20</p>
+      </section>
+
+
+
+  </section> <!-- // fragments // -->
 
 <!--
 
@@ -148,24 +209,6 @@
   </footer>
 
   <section class="scripts">
-    <script id="mission-counter-template" type="text/x-handlebars-template">
-      <div class="label">
-        Campaign Mission Counter
-      </div>
-      <div class="counters">
-        <span class="focus">{{remaining}}</span> remaining |
-        <span class="focus">{{finished}}</span> finished
-      </div>
-    </script>
-
-    <script id="campaign-game" type="text/x-handlebars-template">
-      <ul class="mission-list {{gameId}}">
-      {{#each missions}}
-        <li class="mission {{status}}">{{title}}</li>
-      {{/each}}
-      </ul>
-    </script>
-
     <script data-main="js/index-config" src="/javascripts/amd/require.js"></script>
   </section>
 

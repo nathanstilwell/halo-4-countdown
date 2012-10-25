@@ -95,13 +95,33 @@ body {
 }
 
 
-.reference .link {
+.link {
   color : #4390e3;
   display : block;
+  font-size : 30px;
   text-align : center;
+  text-decoration : none;
   margin : 10px auto;
 }
 
+.link:hover {
+  color : #f0f;
+  text-decoration : underline;
+}
+
+.link:before {
+  content : "[";
+}
+
+.link:after {
+  content : "]";
+}
+
+.embiggen {
+  font-family : 'braciola', 'Andale Mono', monospace;
+  font-size : 75px;
+  margin : 0;
+}
 
 .mission-list {
   color : #4390e3;
