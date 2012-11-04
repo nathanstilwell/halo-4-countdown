@@ -40,6 +40,7 @@ body {
 }
 
 .heading .title {
+  color : #666;
   color : rgba(44, 136, 227, .4);
   font-size: 140px;
   height : 0;
@@ -70,31 +71,6 @@ body {
   margin: 25px 0;
 }
 
-/* Missions Counter */
-
-.progress-count {
-  background-color: rgba(25, 25, 25, .4);
-  border: 1px solid #222;
-  font-size: 14px;
-  font-family: 'Andale Mono', sans-serif;
-  margin: 0 auto 15px;
-  padding: 10px;
-  width : 80%;
-}
-
-.progress-count .focus {
-  font-weight : bold;
-}
-
-.progress-count .label {
-  float : left;
-}
-
-.progress-count .counters {
-  float : right;
-}
-
-
 .link {
   color : #4390e3;
   display : block;
@@ -122,148 +98,6 @@ body {
   font-size : 75px;
   margin : 0;
 }
-
-.mission-list {
-  color : #4390e3;
-  font-family : 'ua squared', 'Andale Mono', monospace;
-  font-size : 18px;
-  list-style : none;
-  padding : 0;
-  margin : 0;
-}
-
-.mission-list .mission {
-  background-color : #000;
-  background-color : rgba(0, 0, 0, .25);
-  border-radius: 4px;
-  border : 1px solid #000;
-  padding : 10px 0 10px 25px;
-  margin : 0 auto 15px;
-}
-
-.mission-list .mission:hover {
-  color : #ddd;
-
-  background-color : #173651;
-  background-color : rgba(23, 54, 81, .25);
-  border : 1px solid #142c45;
-}
-
-.halo-reach .mission {
-  background-color : #214a1c;
-  background-color : rgba(33, 74, 28, .25);
-  border : 1px solid #000;
-}
-.halo-ce .mission {
-  background-color : #2b114a;
-  background-color : rgba(43, 17, 74, .25);
-}
-.halo-2 .mission {
-  background-color : #4a2a16;
-  background-color : rgba(74, 42, 22, .25);
-}
-.halo-odst .mission {
-  background-color : #222;
-  background-color: rgba(0, 0, 0, .45);
-}
-.halo-3 .mission {
-  background-color : #2b4a1e;
-  background-color : rgba(43, 74, 30, .25);
-}
-
-.mission-list .done,
-.mission-list .done:hover {
-  display : none;
-  color : #333;
-  background-color : #202020;
-  background-color : rgba(100, 100, 100, .25);
-  border : 1px solid #000;
-}
-
-
-
-
-
-  .extra {
-    margin : 20px auto;
-    width : 600px;
-  }
-
-  .extra .cradle {
-    margin : 0 auto;
-    position : relative;
-    width : 560px;
-  }
-
-  .cradle .link {
-    opacity : .45;
-    -webkit-transition : all .5s ease-out;
-     -khtml-transition : all .5s ease-out;
-       -moz-transition : all .5s ease-out;
-        -ms-transition : all .5s ease-out;
-         -o-transition : all .5s ease-out;
-            transition : all .5s ease-out;
-  }
-
-  .cradle .link:hover {
-    opacity : .85;
-    -webkit-transition : all .5s ease-out;
-     -khtml-transition : all .5s ease-out;
-       -moz-transition : all .5s ease-out;
-        -ms-transition : all .5s ease-out;
-         -o-transition : all .5s ease-out;
-            transition : all .5s ease-out;
-  }
-
-  .cradle .link .label {
-    color: white;
-    font-size: 60px;
-    margin-top: -30px;
-    opacity : 0;
-    position : absolute;
-    top : 50%;
-    text-align : center;
-    text-shadow: 1px 1px #000000, 2px 2px #000000, 3px 3px #000000, 4px 4px #000000, 5px 5px #000000, 6px 6px #000000, 7px 7px #000000, 8px 8px #000000, 9px 9px #000000, 10px 10px #000000;
-    width: 100%;
-
-    -webkit-transition : all .5s ease-out;
-     -khtml-transition : all .5s ease-out;
-       -moz-transition : all .5s ease-out;
-        -ms-transition : all .5s ease-out;
-         -o-transition : all .5s ease-out;
-            transition : all .5s ease-out;
-  }
-
-  .cradle .link:hover .label{
-    opacity : 1;
-    -webkit-transition : all .5s ease-out;
-     -khtml-transition : all .5s ease-out;
-       -moz-transition : all .5s ease-out;
-        -ms-transition : all .5s ease-out;
-         -o-transition : all .5s ease-out;
-            transition : all .5s ease-out;
-  }
-
-
-
-  .extra .video {
-    margin : 20px;
-    width : 560px;
-  }
-
-  .extra .big {
-    margin : 20px auto;
-    width : 853px;
-  }
-
-  .big { display : none; }
-  .small { display : block; }
-
-
-
-
-
-
 
 
 .the-legal {
@@ -305,19 +139,6 @@ body {
     margin-top : 15px;
     width: 200px;
   }
-
-  .road-to-requiem {
-    margin-top : 10px;
-    width : 94%;
-  }
-
-  .road-to-requiem .title {
-    display : none;
-  }
-
-  .extra {
-    display : none;
-  }
 }
 
 /* Medium */
@@ -332,19 +153,6 @@ body {
   .clock {
     font-size : 70px;
     text-shadow : 0 0 4px rgba(255, 255, 255, .85);
-  }
-
-  .road-to-requiem .title {
-    font-size : 70px;
-  }
-
-  .extra {
-    width : auto;
-  }
-
-  .extra .video {
-    float : none;
-    margin : 20px auto;
   }
 }
 
@@ -361,27 +169,6 @@ body {
     height : 397px;
     width: 800px;
   }
-
-
-  .extra {
-    margin : 20px auto;
-    width : 1200px;
-  }
-
-  .extra .video {
-    float : left;
-    margin : 20px;
-    width : 560px;
-  }
-
-  .extra .big {
-    float : none;
-    margin : 20px auto;
-    width : 853px;
-  }
-
-  .big { display : block; }
-  .small { display : none; }
 
   .the-legal {
     padding : 1% 10%;

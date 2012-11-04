@@ -1,0 +1,99 @@
+/* Missions Counter */
+
+.progress-count {
+  background-color: rgba(25, 25, 25, .4);
+  border: 1px solid #222;
+  font-size: 14px;
+  font-family: 'Andale Mono', sans-serif;
+  margin: 0 auto 15px;
+  padding: 10px;
+  width : 80%;
+}
+
+.progress-count .focus {
+  font-weight : bold;
+}
+
+.progress-count .label {
+  float : left;
+}
+
+.progress-count .counters {
+  float : right;
+}
+
+.mission-list {
+  color : #4390e3;
+  font-family : 'ua squared', 'Andale Mono', monospace;
+  font-size : 18px;
+  list-style : none;
+  padding : 0;
+  margin : 0;
+}
+
+.mission-list .mission {
+  background-color : #000;
+  background-color : rgba(0, 0, 0, .25);
+  border-radius: 4px;
+  border : 1px solid #000;
+  padding : 10px 0 10px 25px;
+  margin : 0 auto 15px;
+}
+
+.mission-list .mission:hover {
+  color : #ddd;
+
+  background-color : #173651;
+  background-color : rgba(23, 54, 81, .25);
+  border : 1px solid #142c45;
+}
+
+.halo-reach .mission {
+  background-color : #214a1c;
+  background-color : rgba(33, 74, 28, .25);
+  border : 1px solid #000;
+}
+.halo-ce .mission {
+  background-color : #2b114a;
+  background-color : rgba(43, 17, 74, .25);
+}
+.halo-2 .mission {
+  background-color : #4a2a16;
+  background-color : rgba(74, 42, 22, .25);
+}
+.halo-odst .mission {
+  background-color : #222;
+  background-color: rgba(0, 0, 0, .45);
+}
+.halo-3 .mission {
+  background-color : #2b4a1e;
+  background-color : rgba(43, 74, 30, .25);
+}
+
+.mission-list .done,
+.mission-list .done:hover {
+  display : none;
+  color : #333;
+  background-color : #202020;
+  background-color : rgba(100, 100, 100, .25);
+  border : 1px solid #000;
+}
+
+@media all and (min-width: 0) and (max-width: 480px) {
+  .road-to-requiem {
+    margin-top : 10px;
+    width : 94%;
+  }
+
+  .road-to-requiem .title {
+    display : none;
+  }
+}
+@media all and (min-width: 481px) and (max-width: 800px) {
+   .road-to-requiem .title {
+    font-size : 70px;
+  }
+}
+@media all and (min-width: 1200px) {
+
+}
